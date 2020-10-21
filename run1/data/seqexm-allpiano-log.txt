@@ -1,0 +1,112 @@
+2020-10-19 09:49:36.478428: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow/python/compat/v2_compat.py:96: disable_resource_variables (from tensorflow.python.ops.variable_scope) is deprecated and will be removed in a future version.
+Instructions for updating:
+non-resource variables are not supported in the long term
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/magenta/pipelines/pipeline.py:310: tf_record_iterator (from tensorflow.python.lib.io.tf_record) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use eager execution and: 
+`tf.data.TFRecordDataset(path)`
+W1019 09:50:01.553270 140610835896192 deprecation.py:323] From /usr/local/lib/python3.6/dist-packages/magenta/pipelines/pipeline.py:310: tf_record_iterator (from tensorflow.python.lib.io.tf_record) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use eager execution and: 
+`tf.data.TFRecordDataset(path)`
+INFO:tensorflow:Processed 500 inputs so far. Produced 2876 outputs.
+I1019 10:04:18.921495 140610835896192 pipeline.py:384] Processed 500 inputs so far. Produced 2876 outputs.
+INFO:tensorflow:DAGPipeline_PolyExtractor_eval_polyphonic_track_lengths_in_bars:
+  [1,10): 45
+  [10,20): 144
+  [20,30): 144
+  [30,40): 36
+I1019 10:04:18.922065 140610835896192 statistics.py:137] DAGPipeline_PolyExtractor_eval_polyphonic_track_lengths_in_bars:
+  [1,10): 45
+  [10,20): 144
+  [20,30): 144
+  [30,40): 36
+INFO:tensorflow:DAGPipeline_PolyExtractor_eval_polyphonic_tracks_discarded_more_than_1_program: 0
+I1019 10:04:18.922200 140610835896192 statistics.py:137] DAGPipeline_PolyExtractor_eval_polyphonic_tracks_discarded_more_than_1_program: 0
+INFO:tensorflow:DAGPipeline_PolyExtractor_eval_polyphonic_tracks_discarded_too_long: 72
+I1019 10:04:18.922292 140610835896192 statistics.py:137] DAGPipeline_PolyExtractor_eval_polyphonic_tracks_discarded_too_long: 72
+INFO:tensorflow:DAGPipeline_PolyExtractor_eval_polyphonic_tracks_discarded_too_short: 315
+I1019 10:04:18.922369 140610835896192 statistics.py:137] DAGPipeline_PolyExtractor_eval_polyphonic_tracks_discarded_too_short: 315
+INFO:tensorflow:DAGPipeline_PolyExtractor_training_polyphonic_track_lengths_in_bars:
+  [1,10): 698
+  [10,20): 1134
+  [20,30): 612
+  [30,40): 63
+I1019 10:04:18.922454 140610835896192 statistics.py:137] DAGPipeline_PolyExtractor_training_polyphonic_track_lengths_in_bars:
+  [1,10): 698
+  [10,20): 1134
+  [20,30): 612
+  [30,40): 63
+INFO:tensorflow:DAGPipeline_PolyExtractor_training_polyphonic_tracks_discarded_more_than_1_program: 450
+I1019 10:04:18.922532 140610835896192 statistics.py:137] DAGPipeline_PolyExtractor_training_polyphonic_tracks_discarded_more_than_1_program: 450
+INFO:tensorflow:DAGPipeline_PolyExtractor_training_polyphonic_tracks_discarded_too_long: 1255
+I1019 10:04:18.922602 140610835896192 statistics.py:137] DAGPipeline_PolyExtractor_training_polyphonic_tracks_discarded_too_long: 1255
+INFO:tensorflow:DAGPipeline_PolyExtractor_training_polyphonic_tracks_discarded_too_short: 7650
+I1019 10:04:18.922670 140610835896192 statistics.py:137] DAGPipeline_PolyExtractor_training_polyphonic_tracks_discarded_too_short: 7650
+INFO:tensorflow:DAGPipeline_RandomPartition_eval_poly_tracks_count: 46
+I1019 10:04:18.922739 140610835896192 statistics.py:137] DAGPipeline_RandomPartition_eval_poly_tracks_count: 46
+INFO:tensorflow:DAGPipeline_RandomPartition_training_poly_tracks_count: 454
+I1019 10:04:18.922807 140610835896192 statistics.py:137] DAGPipeline_RandomPartition_training_poly_tracks_count: 454
+INFO:tensorflow:DAGPipeline_TranspositionPipeline_eval_skipped_due_to_range_exceeded: 0
+I1019 10:04:18.922881 140610835896192 statistics.py:137] DAGPipeline_TranspositionPipeline_eval_skipped_due_to_range_exceeded: 0
+INFO:tensorflow:DAGPipeline_TranspositionPipeline_eval_transpositions_generated: 756
+I1019 10:04:18.922951 140610835896192 statistics.py:137] DAGPipeline_TranspositionPipeline_eval_transpositions_generated: 756
+INFO:tensorflow:DAGPipeline_TranspositionPipeline_training_skipped_due_to_range_exceeded: 9
+I1019 10:04:18.923019 140610835896192 statistics.py:137] DAGPipeline_TranspositionPipeline_training_skipped_due_to_range_exceeded: 9
+INFO:tensorflow:DAGPipeline_TranspositionPipeline_training_transpositions_generated: 11862
+I1019 10:04:18.923105 140610835896192 statistics.py:137] DAGPipeline_TranspositionPipeline_training_transpositions_generated: 11862
+INFO:tensorflow:
+
+Completed.
+
+I1019 10:15:46.007306 140610835896192 pipeline.py:386] 
+
+Completed.
+
+INFO:tensorflow:Processed 834 inputs total. Produced 5341 outputs.
+I1019 10:15:46.007894 140610835896192 pipeline.py:388] Processed 834 inputs total. Produced 5341 outputs.
+INFO:tensorflow:DAGPipeline_PolyExtractor_eval_polyphonic_track_lengths_in_bars:
+  [1,10): 90
+  [10,20): 225
+  [20,30): 243
+  [30,40): 36
+I1019 10:15:46.008154 140610835896192 statistics.py:137] DAGPipeline_PolyExtractor_eval_polyphonic_track_lengths_in_bars:
+  [1,10): 90
+  [10,20): 225
+  [20,30): 243
+  [30,40): 36
+INFO:tensorflow:DAGPipeline_PolyExtractor_eval_polyphonic_tracks_discarded_more_than_1_program: 0
+I1019 10:15:46.008419 140610835896192 statistics.py:137] DAGPipeline_PolyExtractor_eval_polyphonic_tracks_discarded_more_than_1_program: 0
+INFO:tensorflow:DAGPipeline_PolyExtractor_eval_polyphonic_tracks_discarded_too_long: 162
+I1019 10:15:46.008588 140610835896192 statistics.py:137] DAGPipeline_PolyExtractor_eval_polyphonic_tracks_discarded_too_long: 162
+INFO:tensorflow:DAGPipeline_PolyExtractor_eval_polyphonic_tracks_discarded_too_short: 792
+I1019 10:15:46.008678 140610835896192 statistics.py:137] DAGPipeline_PolyExtractor_eval_polyphonic_tracks_discarded_too_short: 792
+INFO:tensorflow:DAGPipeline_PolyExtractor_training_polyphonic_track_lengths_in_bars:
+  [1,10): 1256
+  [10,20): 2088
+  [20,30): 1269
+  [30,40): 134
+I1019 10:15:46.008850 140610835896192 statistics.py:137] DAGPipeline_PolyExtractor_training_polyphonic_track_lengths_in_bars:
+  [1,10): 1256
+  [10,20): 2088
+  [20,30): 1269
+  [30,40): 134
+INFO:tensorflow:DAGPipeline_PolyExtractor_training_polyphonic_tracks_discarded_more_than_1_program: 621
+I1019 10:15:46.008945 140610835896192 statistics.py:137] DAGPipeline_PolyExtractor_training_polyphonic_tracks_discarded_more_than_1_program: 621
+INFO:tensorflow:DAGPipeline_PolyExtractor_training_polyphonic_tracks_discarded_too_long: 1606
+I1019 10:15:46.009025 140610835896192 statistics.py:137] DAGPipeline_PolyExtractor_training_polyphonic_tracks_discarded_too_long: 1606
+INFO:tensorflow:DAGPipeline_PolyExtractor_training_polyphonic_tracks_discarded_too_short: 11599
+I1019 10:15:46.009123 140610835896192 statistics.py:137] DAGPipeline_PolyExtractor_training_polyphonic_tracks_discarded_too_short: 11599
+INFO:tensorflow:DAGPipeline_RandomPartition_eval_poly_tracks_count: 85
+I1019 10:15:46.009394 140610835896192 statistics.py:137] DAGPipeline_RandomPartition_eval_poly_tracks_count: 85
+INFO:tensorflow:DAGPipeline_RandomPartition_training_poly_tracks_count: 749
+I1019 10:15:46.009643 140610835896192 statistics.py:137] DAGPipeline_RandomPartition_training_poly_tracks_count: 749
+INFO:tensorflow:DAGPipeline_TranspositionPipeline_eval_skipped_due_to_range_exceeded: 0
+I1019 10:15:46.009752 140610835896192 statistics.py:137] DAGPipeline_TranspositionPipeline_eval_skipped_due_to_range_exceeded: 0
+INFO:tensorflow:DAGPipeline_TranspositionPipeline_eval_transpositions_generated: 1548
+I1019 10:15:46.009834 140610835896192 statistics.py:137] DAGPipeline_TranspositionPipeline_eval_transpositions_generated: 1548
+INFO:tensorflow:DAGPipeline_TranspositionPipeline_training_skipped_due_to_range_exceeded: 12
+I1019 10:15:46.009918 140610835896192 statistics.py:137] DAGPipeline_TranspositionPipeline_training_skipped_due_to_range_exceeded: 12
+INFO:tensorflow:DAGPipeline_TranspositionPipeline_training_transpositions_generated: 18573
+I1019 10:15:46.010153 140610835896192 statistics.py:137] DAGPipeline_TranspositionPipeline_training_transpositions_generated: 18573
