@@ -9,6 +9,7 @@ Original file is located at
 Hello this is me testing out Google Magenta's PolyphonyRNN on pokemon music
 """
 
+#libs
 #@test {"output": "ignore"}
 print('Installing dependencies...')
 !apt-get update -qq && apt-get install -qq libfluidsynth1 fluid-soundfont-gm build-essential libasound2-dev libjack-dev
@@ -45,44 +46,55 @@ drive.mount('/content/gdrive')
 
 import os
 os.chdir("/content/mydrive/MAIS202/Project")
-#hmod 755 ./scripts/run_local.sh
-#!./scripts/run_local.sh nets/resnet_at_cifar10_run.py
 
 # Commented out IPython magic to ensure Python compatibility.
 # Load the TensorBoard notebook extension
 # %load_ext tensorboard
 
+#misc imports
 from google.colab import files
 import numpy as np
-import os
-import tensorflow as tf
 import datetime
-import magenta.music as mm
-import magenta
 from magenta.scripts import convert_dir_to_note_sequences
 from magenta.models.polyphony_rnn import *
 
 #Create NoteSeq from MIDI files
+!convert_dir_to_note_sequences \
+  --input_dir=/content/mydrive/MAIS202/Project/MIDI \
+  --output_file=/content/mydrive/MAIS202/Project/polyphony/run1/notesequences.tfrecord \
+  --recursive 2>&1 | tee noteseq-log.txt
 
 #Create Seq from NoteSeq file
+!polyphony_rnn_create_dataset \
+  --input=/content/mydrive/MAIS202/Project/data/run1/notesequences.tfrecord \
+  --output_dir=/content/mydrive/MAIS202/Project/data/run1 \
+  --eval_ratio=0.10 2>&1 | tee seqexm-log.txt
 
 #Train the model
 
 !polyphony_rnn_train \
 --run_dir=/content/mydrive/MAIS202/Project/polyphony/run1 \
---sequence_example_file=/content/mydrive/MAIS202/Project/data/training_poly_tracks.tfrecord \
+--sequence_example_file=/content/mydrive/MAIS202/Project/data/run1/training_poly_tracks.tfrecord \
 --num_training_steps=20000 \
 --hparams="batch_size=64,rnn_layer_sizes=[256,256,256]" \
 --config='polyphony' \
 --num_checkpoints=10
 
-#evaluation?
+#evaluation
 !polyphony_rnn_train \
 --run_dir=/content/mydrive/MAIS202/Project/polyphony/run1 \
---sequence_example_file=/content/mydrive/MAIS202/Project/data/eval_poly_tracks.tfrecord \
+--sequence_example_file=/content/mydrive/MAIS202/Project/data/run1/eval_poly_tracks.tfrecord \
 --hparams="batch_size=64,rnn_layer_sizes=[256,256,256]" \
 --num_training_steps=20000
 --eval
+
+# Commented out IPython magic to ensure Python compatibility.
+#run tensorboard for eval metrics
+# %tensorboard \
+--logdir=/content/mydrive/MAIS202/Project/polyphony \
+--host=127.0.0.1
+
+"""#Save model and Generate from a budle/checkpoint."""
 
 #Save your model as a bundle
 !polyphony_rnn_generate \
@@ -91,17 +103,6 @@ from magenta.models.polyphony_rnn import *
 --bundle_file=/content/mydrive/MAIS202/Project/polyphony/run1/my_poly_rnn.mag \
 --config='polyphony' \
 --save_generator_bundle
-
-# Commented out IPython magic to ensure Python compatibility.
-# Clear any logs from previous runs
-#!rm -rf ./logs/
-
-#run tensorboard
-# %tensorboard \
---logdir=/content/mydrive/MAIS202/Project/polyphony \
---host=127.0.0.1
-
-"""# Generate from a checkpoint."""
 
 #generate new track with the trained model from a sequence of notes
 !polyphony_rnn_generate \
@@ -115,92 +116,18 @@ from magenta.models.polyphony_rnn import *
 --condition_on_primer=true \
 --inject_primer_during_generation=false
 
-#Choose your own MIDI file
+#Choose MIDI file
 primer_midi=("/content/mydrive/MAIS202/Project/data/primer_rt209n_2.mid")
 primer_ns=mm.midi_file_to_note_sequence(primer_midi)
 mm.plot_sequence(primer_ns)
 
-#generate new track with the trained model from a midi
-
-#cynthia
-!polyphony_rnn_generate \
---config='polyphony' \
---run_dir=/content/mydrive/MAIS202/Project/polyphony/run1/ \
---output_dir=/content/mydrive/MAIS202/Project/polyphony/run1/output/cynthia \
---hparams="batch_size=64,rnn_layer_sizes=[256,256,256]" \
---num_outputs=5 \
---num_steps=240 \
---primer_midi=/content/mydrive/MAIS202/Project/data/primer_cynthia.mid \
---condition_on_primer=true \
---inject_primer_during_generation=false
-
-#pkss
-!polyphony_rnn_generate \
---config='polyphony' \
---run_dir=/content/mydrive/MAIS202/Project/polyphony/run1/ \
---output_dir=/content/mydrive/MAIS202/Project/polyphony/run1/output/pkss \
---hparams="batch_size=64,rnn_layer_sizes=[256,256,256]" \
---num_outputs=5 \
---num_steps=240 \
---primer_midi=/content/mydrive/MAIS202/Project/data/primer_pkss.mid \
---condition_on_primer=true \
---inject_primer_during_generation=false
-
-#N
-!polyphony_rnn_generate \
---config='polyphony' \
---run_dir=/content/mydrive/MAIS202/Project/polyphony/run1/ \
---output_dir=/content/mydrive/MAIS202/Project/polyphony/run1/output/n \
---hparams="batch_size=64,rnn_layer_sizes=[256,256,256]" \
---num_outputs=5 \
---num_steps=240 \
---primer_midi=/content/mydrive/MAIS202/Project/data/primer_enctr_n.mid \
---condition_on_primer=true \
---inject_primer_during_generation=false
-
-#driftveil
-!polyphony_rnn_generate \
---config='polyphony' \
---run_dir=/content/mydrive/MAIS202/Project/polyphony/run1/ \
---output_dir=/content/mydrive/MAIS202/Project/polyphony/run1/output/driftveil \
---hparams="batch_size=64,rnn_layer_sizes=[256,256,256]" \
---num_outputs=5 \
---num_steps=240 \
---primer_midi=/content/mydrive/MAIS202/Project/data/primer_driftveil.mid \
---condition_on_primer=true \
---inject_primer_during_generation=false
-
-#pkmncenter
-!polyphony_rnn_generate \
---config='polyphony' \
---run_dir=/content/mydrive/MAIS202/Project/polyphony/run1/ \
---output_dir=/content/mydrive/MAIS202/Project/polyphony/run1/output/pkmncenter-bw \
---hparams="batch_size=64,rnn_layer_sizes=[256,256,256]" \
---num_outputs=5 \
---num_steps=240 \
---primer_midi=/content/mydrive/MAIS202/Project/data/primer_pkmncenter_bw.mid \
---condition_on_primer=true \
---inject_primer_during_generation=false
-
-#victoryroad
-!polyphony_rnn_generate \
---config='polyphony' \
---run_dir=/content/mydrive/MAIS202/Project/polyphony/run1/ \
---output_dir=/content/mydrive/MAIS202/Project/polyphony/run1/output/victoryroad-rse \
---hparams="batch_size=64,rnn_layer_sizes=[256,256,256]" \
---num_outputs=5 \
---num_steps=240 \
---primer_midi=/content/mydrive/MAIS202/Project/data/primer_victoryroad_rse.mid \
---condition_on_primer=true \
---inject_primer_during_generation=false
-
-#generate new sequences with the train model (budle_file)
+#generate new sequences with the train model (bundle_file)
 !polyphony_rnn_generate \
 --config='polyphony_rnn ' \
---bundle_file=/content/drive/My\ Drive/RNN/models/polyphony/run1/my_poly_rnn.mag \
---output_dir=/content/drive/My\ Drive/creacionesAI/poly_train3 \
+--bundle_file=/content/mydrive/MAIS202/Project/polyphony/run1/pkmn_poly_rnn.mag \
+--output_dir=/content/mydrive/MAIS202/Project/polyphony/run1/output \
 --num_outputs=10 \
 --num_steps=200 \
---primer_midi=/content/drive/My\ Drive/brain_music/happy_1.mid \
+--primer_midi=/content/mydrive/MAIS202/Project/data/primer_rt209n_2.mid \
 --condition_on_primer=True \
 --inject_primer_during_generation=False
