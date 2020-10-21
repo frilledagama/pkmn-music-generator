@@ -1,0 +1,828 @@
+,Name,Game,Key Signature,Time Signature,Instruments,Length
+0,A New Adventure!,g minor,0.6880053071274875,4/4,"[None, None, 'Electric Bass', 'Violoncello', 'Violin', None, 'StringInstrument', None, None, None]",10.940855291666681
+1,A Statue Was Raised In Pokestar Studios!,g minor,0.6848418119368361,4/4,"['Piano', None, None, 'Clavichord', None, 'Harpsichord', None, None]",6.7562257291666725
+2,A Sweet Soirée,C major,0.8239322371287687,4/4,"[None, None, None, None, None, None, None, None, 'Piano', None]",63.236113854167286
+3,Absorption,b minor,0.5946612215689918,4/4,"[None, None, 'Violin', 'Brass', 'Fretless Bass', None, 'Fretless Bass', None, None, None]",28.948451812500057
+4,Abyssal Ruins,A major,0.7555845939748431,4/4,"[None, 'Pan Flute', None, None, 'Trumpet', None, None, 'Pan Flute', 'Trumpet', None]",106.65283110416524
+5,Accessories Received!,F major,0.6935183346815703,4/4,"[None, None, None, None, None, None, None, None]",2.611108500000001
+6,Accumula Town,E major,0.7301176368039093,4/4,"['Timpani', None, 'Reed Organ', 'Timpani', None, 'Piano', 'Piano']",43.113816291666446
+7,Anville Town,F major,0.9005700507729121,4/4,"['Piano', 'Church Bells', 'Piano', 'Piano', None, None, None, 'Piano', 'Piano', None]",68.09123210416621
+8,Arousal,b minor,0.35049508588539136,4/4,"[None, 'Vibraphone', 'Violin', 'Brass', 'Electric Bass', None, 'Fretless Bass', None, 'Piano', None, None]",14.556632208333367
+9,Asperita City,e minor,0.8066013461714127,4/4,"['Piano', None, 'Sitar', 'Violoncello', None, 'Piano', None, None, None, None, 'Piano']",80.91564912500051
+10,Assault! Opelucid City,d minor,0.5403704581091063,4/4,"['Violin', None, None, None, 'Church Bells', None, 'Violin', None, None, None, 'Violin']",51.07757343749974
+11,Badge Received!,C major,0.7544620039511538,4/4,"[None, 'Violin', 'Violoncello', 'StringInstrument', 'Electric Bass', None, None, None]",4.565603749999998
+12,Battle Subway,G major,0.7220872347196032,4/4,"[None, 'StringInstrument', None, 'Horn', 'Horn', None, None, None, None]",12.192806770833329
+13,Battle! Champion Alder,B- major,0.5985599495214553,4/4,"['Horn', None, None, 'Trombone', 'StringInstrument', 'Fretless Bass', 'Horn', 'Timpani', None, None, None]",77.23428808333423
+14,Battle! Champion Iris,C major,0.7944869699244659,4/4,"[None, None, None, None, None, None, None, None, None]",102.64322916666555
+15,Battle! Cheren & Bianca,e minor,0.5901429596222968,4/4,"['Xylophone', 'Piano', 'Piano', 'Horn', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', None, 'Xylophone']",51.81106572916685
+16,Battle! Colress,c# minor,0.6010081694555889,4/4,"[None, 'Bagpipes', None, None, None, None, None, None, None, None, None]",116.18642579167143
+17,Battle! Cynthia,G major,0.8072520317813614,4/4,"['Piano', 'Piano', 'Piano', 'Horn', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', None, 'Piano', 'Piano']",82.49348958333343
+18,Battle! Elite Four,B major,0.5086938514026424,4/4,"[None, 'Horn', None, 'Horn', 'Glockenspiel', 'Piccolo', 'Glockenspiel', None, None]",93.47354399999878
+19,Battle! Fused Kyurem [B],B- major,0.2987425629921168,4/4,"[None, 'Guitar', 'Brass', None, 'Electric Bass', None, 'Violin', 'Violin', None, None]",121.20072481249925
+20,Battle! Fused Kyurem [W],B- major,0.2987425629921168,4/4,"[None, 'Guitar', 'Brass', None, 'Electric Bass', None, 'Violin', 'Violin', None, None]",121.20072481249925
+21,Battle! Ghetsis,e minor,0.17640513083421439,4/4,"[None, 'Bassoon', None, 'Trombone', 'Bassoon', 'Piccolo', None, None, None, None, 'Steel Drum']",137.67742506249604
+22,Battle! Golem Trio,f# minor,0.4978814134122761,4/4,"['StringInstrument', 'Trombone', 'StringInstrument', 'Baritone Saxophone', 'Baritone Saxophone', None, None, None, None, None]",58.174184250002334
+23,Battle! Gym Leader [BW2],C major,0.5754244448942385,4/4,"['Trumpet', 'Trumpet', 'Harmonica', 'Piano', 'Trumpet', 'Flute', 'StringInstrument', 'Harp', 'Piano', None, 'Piano']",89.99287372916703
+24,Battle! Gym Leader,C major,0.6530713169813156,4/4,"['Trumpet', 'Trumpet', 'Harmonica', 'Piano', 'Flute', 'Flute', 'StringInstrument', 'Harp', 'Piano', None, 'Piano']",89.9928737291668
+25,Battle! Heatran,f minor,0.7141088289684132,4/4,"['Soprano Saxophone', 'Trumpet', 'Trombone', 'StringInstrument', 'StringInstrument', 'Trombone', None, 'Timpani']",55.48379372916725
+26,Battle! Hoenn Champion,f minor,0.6483078918286151,4/4,"['Piano', 'Violoncello', 'Harmonica', 'Piano', 'Piano', 'Brass', 'Harp', None, 'Violoncello', None, None]",65.65451177083192
+27,Battle! Hoenn Leader,F major,0.8018587644759546,4/4,"['Electric Guitar', 'Acoustic Bass', 'Harmonica', 'Electric Guitar', 'Vibraphone', 'Piano', 'Violin', 'StringInstrument', None, 'Violin', 'Violin']",76.69450070833246
+28,Battle! Johto Champion,g# minor,0.5639761804410552,4/4,"[None, None, None, None, 'Violin', None, None, None, None, None]",67.81930252083356
+29,Battle! Johto Gym Leader,A- major,0.7895185065881122,4/4,"[None, None, None, None, None, 'Church Bells', None, None, None, None, None]",73.54174756250052
+30,Battle! Kanto Champion,a minor,0.7416666827613448,4/4,"['Soprano Saxophone', 'Saxophone', 'Saxophone', 'Harmonica', None, 'Celesta', 'Guitar', 'Harp', None, None, 'Saxophone']",73.94617656249947
+31,Battle! Kanto Gym Leader,b minor,0.7330099338393382,4/4,"['Contrabass', None, 'Harmonica', 'Contrabass', None, 'Celesta', 'Celesta', 'Harp', 'Violin', 'Violin']",58.19973602083415
+32,Battle! King N,a minor,0.6098359347374149,4/4,"['Fretless Bass', 'Horn', None, 'Fretless Bass', 'Voice', 'Fretless Bass', 'Glockenspiel', 'Piano', None, None, 'Harp']",104.67747456249924
+33,Battle! Kyurem,f minor,0.7398723998221556,4/4,"['Horn', 'Horn', None, 'Horn', 'Horn', 'Horn', 'Brass', 'Piano', None, None, 'Harp']",139.24297139583194
+34,Battle! Lake Trio,f minor,0.5057105947337437,4/4,"[None, 'StringInstrument', 'Trumpet', 'Accordion', 'Accordion', 'Piano', 'Piano', None, None, 'Timpani']",109.67081956249783
+35,Battle! Legendary Pokemon,A- major,0.6002864454446627,4/4,"['Piano', 'Horn', None, 'Voice', 'Electric Guitar', None, None, None, None, None, None]",96.9988329166662
+36,Battle! N [BW2],a minor,0.820990162448568,4/4,"['Horn', 'Horn', None, 'Horn', 'Shehnai', 'Horn', 'Glockenspiel', 'Soprano Saxophone', None, None, 'Timpani']",73.65964856250035
+37,Battle! Neo Ghetsis,F# major,0.24900648293308847,4/4,"[None, 'Brass', None, 'Trombone', None, 'Steel Drum', None, None, None, None, None]",85.5916666666673
+38,Battle! PWT Champion,c minor,0.7931990229286252,4/4,"['StringInstrument', None, 'Brass', None, None, None, 'Harp', 'StringInstrument', 'Piano', None, None]",99.29774020833506
+39,Battle! Rare Pokemon [BW2],F major,0.802123119946335,4/4,"['Horn', 'Horn', None, None, 'Vibraphone', 'Brass', 'Violin', 'Brass', None, None, 'Harp']",64.4143770624998
+40,Battle! Rare Pokemon,F major,0.802123119946335,4/4,"['Horn', 'Horn', None, None, 'Vibraphone', 'Brass', 'Violin', 'Brass', None, None, 'Harp']",64.4143770624998
+41,Battle! Reshiram,f minor,0.7445458022833286,4/4,"['Horn', 'Horn', None, 'Horn', 'Horn', 'Horn', 'Brass', 'Piano', None, None, 'Harp']",139.2531339999988
+42,Battle! Rival Hugh,f# minor,0.8226465451900139,4/4,"[None, None, None, None, 'Harpsichord', 'Harpsichord', None, None]",69.22268718749908
+43,Battle! Rival N,a minor,0.88857987088172,4/4,"[None, 'Horn', None, 'Horn', 'Horn', 'Fretless Bass', 'Fretless Bass', None, None, None, 'Timpani']",73.49298206250066
+44,Battle! Sinnoh Champion,F# major,0.6532161567878855,4/4,"['Piano', 'Piano', 'Piano', 'Horn', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', None, 'Piano', 'Piano']",82.49348958333323
+45,Battle! Sinnoh Gym Leader,f minor,0.5977462254545948,4/4,"['StringInstrument', 'Piano', None, 'StringInstrument', 'Piano', 'Piano', 'Piano', 'StringInstrument', 'Pan Flute', None, None]",89.99321852083355
+46,Battle! Subway Trainer,A- major,0.8119960133011148,4/4,"['Harmonica', 'Harp', 'StringInstrument', 'Contrabass', 'StringInstrument', 'Violoncello', 'StringInstrument', 'Trumpet', 'StringInstrument', None, 'Trumpet']",109.08377772916647
+47,Battle! Team Neo Plasma,F major,0.7127573054705179,4/4,"['Acoustic Bass', 'Horn', None, 'StringInstrument', 'Pan Flute', 'Brass', 'Sitar', 'Pan Flute', None, None, 'Acoustic Bass']",100.98718897916854
+48,Battle! Team Plasma Grunt,c minor,0.5810934311824668,4/4,"['Acoustic Bass', 'Horn', 'Timpani', 'StringInstrument', 'Pan Flute', 'Brass', 'Brass', 'Pan Flute', 'Piano', None, None]",95.99314724999888
+49,Battle! Trainer [BW2],c# minor,0.28921734830029894,4/4,"['Harmonica', 'Harp', 'Piano', 'StringInstrument', 'Contrabass', 'StringInstrument', 'StringInstrument', 'StringInstrument', None, None, 'Piano']",109.07667545833375
+50,Battle! Trainer,A- major,0.4487230612198362,4/4,"['Harmonica', 'Harp', 'Piano', 'StringInstrument', 'Contrabass', 'StringInstrument', 'StringInstrument', 'Trumpet', None, None, 'Piano']",109.07667545833367
+51,Battle! Wild Pokemon [BW2],e- minor,0.8019314517967088,4/4,"['Acoustic Bass', None, None, None, 'Glockenspiel', 'Horn', 'Harp', 'Brass', None, None, 'Acoustic Bass']",64.41437706249977
+52,Battle! Wild Pokemon,F major,0.7820713662833295,4/4,"['Acoustic Bass', None, None, 'Electric Bass', 'Glockenspiel', 'Horn', 'Harp', 'Brass', None, None, 'Acoustic Bass']",64.4143770624998
+53,Battle! World Champion,c minor,0.7051249566771787,4/4,"[None, None, 'Electric Bass', 'Violin', None, None, 'Violoncello', None, None, None, None]",102.6000485624967
+54,Battle! Zekrom,f minor,0.7431426926816668,4/4,"['Horn', 'Horn', None, 'Horn', 'Horn', 'Horn', 'Brass', 'Piano', None, None, 'Harp']",139.25313399999885
+55,Before Victory Road,A- major,0.29124628528928787,4/4,"[None, 'Electric Bass', 'Electric Bass', None, 'Electric Bass', None, 'Piano']",19.442572104166686
+56,Berries Received!,F major,0.6860587076643052,4/4,"['Xylophone', 'Xylophone', None, None, None, None, None, None]",1.2499987499999994
+57,Bicycle Theme,E major,0.9033489728789987,4/4,"['StringInstrument', 'StringInstrument', None, None, None, None, None, None, None]",65.67105810416567
+58,Black City,E major,0.5345264387964518,4/4,"['Piano', 'StringInstrument', None, None, None, 'Electric Organ', None, 'Piano', None, 'StringInstrument']",31.514235520833065
+59,Black Tower Lobby,g minor,0.667597912758133,4/4,"[None, None, None, None, None, None, None]",18.311058020833286
+60,Black Tower,g# minor,0.4347750117666352,4/4,"[None, None, None, 'Clavichord', None, 'Clavichord', None, None]",80.55061874999933
+61,BP Recevied!,d minor,0.7320316560094305,4/4,"[None, None, None, 'Harmonica', 'Harmonica', 'Harmonica', None]",4.48958333333333
+62,Castelia City Gym,F major,0.6361166340963463,4/4,"['Piano', None, 'Piano', None, None, None, 'Piano', None, None, None, 'Piano']",80.73602975000077
+63,Castelia City,A- major,0.7821951220597115,4/4,"[None, None, 'Electric Guitar', 'Reed Organ', None, 'Timpani', None, None]",50.745634333332504
+64,Challenge the Battle Competition,c minor,0.800795930093283,4/4,"[None, None, 'Electric Bass', 'Violoncello', 'StringInstrument', 'Violin', 'Marimba', None, None, None, 'Violoncello']",26.95412560416673
+65,Chargestone Cave,B major,0.4059690295640354,4/4,"[None, None, 'Electric Bass', None, None, None, 'Violoncello', None, None, None]",42.995968562500096
+66,Coalescence [B],b- minor,0.6686550588075658,4/4,"[None, None, 'Brass', 'Guitar', None, 'Violin', None, None, None, None, 'Piano']",33.72118066666671
+67,Coalescence [W],b- minor,0.6686550588075658,4/4,"[None, None, 'Brass', 'Guitar', None, 'Violin', None, None, None, None, 'Piano']",33.72118066666671
+68,Collected All The Medals!,a minor,0.7845706276261437,4/4,"[None, 'Fretless Bass', 'Violin', None, None, None, 'Violoncello', None, None, None]",3.821424749999997
+69,Come Along! [1],D major,0.7598074601044869,4/4,"['Harpsichord', 'Organ', None, 'Electric Guitar', None, 'Harpsichord']",7.9450678125000245
+70,Come Along! [2],A major,0.8180724551816488,4/4,"['Piano', 'Harpsichord', 'Organ', None, 'Electric Guitar', None, None, 'Piano']",24.953347395833447
+71,Confrontation,e- minor,0.2657683219082974,4/4,"[None, 'Guitar', 'Piano', 'Acoustic Bass', None, None, None, 'Piano', None, None, 'Piano']",36.43655181250019
+72,Coronation Day,f minor,0.7436042610224878,4/4,"[None, None, 'Electric Bass', None, None, 'Soprano Saxophone', 'Piano', 'Church Bells', 'Bassoon', 'Piano', None, 'Electric Bass']",44.666666666666686
+73,Critical Condition!,a minor,0.4004430802706844,4/4,"['StringInstrument', 'Vibraphone', 'Reed Organ', None, None, None]",22.284699520833463
+74,Dragonspiral Tower,b- minor,0.653480145102046,4/4,"['Piano', None, None, None, None, None, None, 'Piano', None, None, None]",67.64144862499992
+75,Dreamyard,c# minor,0.819680375581646,4/4,"[None, None, None, 'Electric Guitar', 'Violoncello', None, 'Violoncello', 'Violoncello', None]",73.43280400000086
+76,Dress-Up Time!,B- major,0.8392034840463969,4/4,"['Vibraphone', None, 'Electric Guitar', 'Vibraphone', None, 'Vibraphone', 'Electric Guitar', 'Vibraphone', None]",18.273823229166606
+77,Driftveil Bridge,c minor,0.7835467619819466,4/4,"['Piano', 'Piano', 'Church Bells', 'Glockenspiel', None, None, 'Piano', 'Church Bells', 'Piano']",682.9341833749967
+78,Driftveil City Gym,a minor,0.8135892168321545,4/4,"[None, 'Acoustic Bass', 'Reed Organ', None, None, 'Acoustic Bass', None, None, None, None]",41.5840212291671
+79,Driftveil City,F# major,0.7694627803638152,4/4,"[None, 'Dulcimer', None, 'Violin', None, 'Violin', 'Vibraphone', None, None]",40.87958874999971
+80,Encounter! Ace Trainer,D major,0.7886228183790859,4/4,"[None, None, None, None, None, None]",15.255274062500115
+81,Encounter! Alder,d minor,0.9211866688118558,4/4,"['Timpani', None, 'Reed Organ', None, None, 'Reed Organ', None, 'Timpani']",38.92679297916644
+82,Encounter! Backpacker,B- major,0.8926068451897193,4/4,"[None, 'Violoncello', 'Contrabass', 'Timpani', 'Violin', None, None, None]",7.035977812500021
+83,Encounter! Beauty,A major,0.5684081375887595,4/4,"['Bagpipes', 'Organ', None, 'Organ', None, None, 'Bagpipes', 'Bagpipes', None, None]",16.989583333333325
+84,Encounter! Bianca [BW2],G major,0.7854281467115538,4/4,"['Clavichord', 'Clavichord', None, 'Reed Organ', None, 'Reed Organ', None, None]",31.39020574999975
+85,Encounter! Bianca,G major,0.8175179416587522,4/4,"[None, 'Guitar', None, None, None, None, None, None]",24.989583333333417
+86,Encounter! Cheren [BW2],c# minor,0.2689669721183074,4/4,"[None, 'Clavichord', None, None, None, 'Clavichord', None, None, None, None, None]",26.73448008333311
+87,Encounter! Cheren,d minor,0.6565285833301,4/4,"[None, None, None, 'Guitar', None, 'Piano', None, None]",25.546270749999827
+88,Encounter! Colress,F major,0.8146029880822531,4/4,"[None, None, None, None, None, None, None, None, None, None, None]",30.21293274999988
+89,Encounter! Cyclist,c# minor,0.5032401290310585,4/4,"[None, None, 'Accordion', None, None, 'Violin', None]",12.263245312499981
+90,Encounter! Cynthia,b minor,0.8171430265227426,4/4,"['Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano']",40.76405043750076
+91,Encounter! Friend,D major,0.8887176076621769,4/4,"['StringInstrument', None, 'Electric Guitar', None, 'Piano', 'Reed Organ', 'StringInstrument', None]",44.19957908333248
+92,Encounter! Gentleman,C# major,0.7873176126378836,4/4,"[None, 'StringInstrument', None, None, None, 'StringInstrument', None]",15.983333333333444
+93,Encounter! Ghetsis,A- major,0.5318661234384036,4/4,"[None, None, 'StringInstrument', 'Electric Bass', 'Violoncello', None, None, None]",15.88749999999995
+94,Encounter! Harlequin,F# major,0.6105958072660356,4/4,"['Electric Organ', 'Harpsichord', None, 'Electric Organ', 'Organ', None]",15.562968020833296
+95,Encounter! Juniper's Dad,F major,0.9023252185637762,4/4,"['Reed Organ', None, None, 'Reed Organ', None, 'Reed Organ', None, None]",28.2738307291665
+96,Encounter! Lass,B- major,0.773691890364929,4/4,"[None, None, 'Reed Organ', None, None, 'Reed Organ', None]",15.341560562499945
+97,Encounter! Looker,d minor,0.7958437687610733,4/4,"[None, 'Violoncello', None, 'Violin', None, 'Violoncello', None]",32.42395406250005
+98,Encounter! Male Clerk,G major,0.7727503309736461,4/4,"['Piano', 'Electric Guitar', None, None, 'Piano', None]",11.992641062500047
+99,Encounter! N [BW2],F major,0.7525535481100125,4/4,"['Electric Organ', None, None, 'Electric Organ', None, None, 'Electric Organ', 'Electric Organ', None]",36.19583708333333
+100,Encounter! N,f minor,0.472800169343302,4/4,"['Electric Organ', None, None, None, None, None, 'Electric Organ']",17.8046875
+101,Encounter! Parasol Lady,f# minor,0.7580606986586534,4/4,"['Vibraphone', None, 'Organ', 'Dulcimer', None, None, None, 'Piano', None]",13.527784541666596
+102,Encounter! Pokefan,G major,0.6161669055664775,4/4,"[None, None, 'Violin', None, 'Violin', None]",15.101836750000002
+103,Encounter! Prof. Juniper,A major,0.8091677747482545,4/4,"[None, 'Acoustic Bass', None, None, None, None, None, 'Acoustic Bass', None]",33.38042643750044
+104,Encounter! Psychic,B- major,0.5379870398554558,4/4,"[None, 'Organ', 'Voice', None, 'Contrabass', 'Reed Organ', 'Harmonica', 'Piano', None, None, 'Reed Organ']",17.86500000000002
+105,Encounter! Rival Hugh,g# minor,0.7881353068002219,4/4,"[None, None, None, None, 'Clavichord', None, None]",40.52152385416664
+106,Encounter! Roughneck,F# major,0.780244820860432,4/4,"['Soprano Saxophone', None, None, 'Soprano Saxophone', 'Piano', None, None]",24.862794104166454
+107,Encounter! Scientist,g minor,0.39190175088351425,4/4,"['Piano', 'Piano', 'Piano', None, 'Electric Bass', None, 'Piano']",11.711058937500006
+108,Encounter! Seven Sages [BW2],g minor,0.5260169363083154,4/4,"['Electric Bass', None, None, 'Electric Bass', None, None, None]",35.42751206250014
+109,Encounter! Seven Sages,g minor,0.6048342969058919,4/4,"['Piano', None, None, None, None, None, None, 'Piano', None]",19.417698666666645
+110,Encounter! Shadow Triad,a minor,0.7484070280864934,4/4,"[None, None, None, 'Kalimba', 'Kalimba', 'Kalimba', None, None]",26.7621741875002
+111,Encounter! Sound Designer,A- major,0.4400850037945271,4/4,"[None, None, None, None, None, None, None, None, None]",37.6796875
+112,Encounter! Team Neo Plasma Grunt,C major,0.7247711967520057,4/4,"['Horn', 'Horn', 'Timpani', None, None, None, 'Horn', 'Piano', 'Sitar', None, 'Acoustic Bass']",22.7573415625
+113,Encounter! Team Plasma Grunt,b minor,0.4774806005989682,4/4,"['Horn', None, 'Timpani', None, None, 'Harp', None, 'Piano', None, None]",23.839261874999988
+114,"Encounter! Team Plasma, Again [BW2]",C# major,0.6449463324207362,4/4,"[None, None, None, None, None, None]",39.98877272916675
+115,Encounter! Team Plasma,b minor,0.5651084541791821,4/4,"['Horn', None, 'Timpani', None, None, 'Harp', 'Brass', 'Piano', None, None]",41.98958333333325
+116,Encounter! Twins,G major,0.7315539133233739,4/4,"[None, None, None, None, 'Electric Organ', None, None, None, None]",13.4921875
+117,Encounter! Youngster,G major,0.8555496054859238,4/4,"['Vibraphone', None, 'Electric Guitar', 'Reed Organ', 'Vibraphone', None, None]",7.5
+118,Entralink,d minor,0.9382961296681128,4/4,"[None, None, None, 'Church Bells', 'Violoncello', 'Violin', None, None, None, None, 'Church Bells']",52.24798735416682
+119,Epilogue,E- major,0.8921730138487647,4/4,"['Piano', None, None, None, None, None, None, 'Piano']",91.19733618749952
+120,Exciting Nimbasa,d minor,0.7753274115845153,4/4,"['Piano', 'Organ', 'Electric Guitar', 'Organ', None, None, 'Piano', None]",59.089999999999556
+121,Feeling Check [Almost!],A major,0.9192719424969753,4/4,"[None, 'Piano', 'Electric Organ', None, 'Timpani', None]",3.125
+122,Feeling Check [Low],e minor,0.8071194126023044,4/4,"['Vibraphone', None, 'Electric Guitar', 'Electric Organ', 'Vibraphone']",1.6023507291666643
+123,Feeling Check [Perfect!],A- major,0.9601162882926382,4/4,"[None, 'Organ', 'Electric Guitar', None, None, None, None]",3.9717785624999875
+124,Feeling Check!,B major,0.7555671591731843,4/4,"['Vibraphone', 'Electric Organ', 'Vibraphone', 'Electric Guitar']",2.2916643749999994
+125,Ferris Wheel Ride,D major,0.9036670736862024,4/4,"[None, None, None, None, None, None]",39.434940708333144
+126,Filming in Session!,b- minor,0.8645963716172455,4/4,"['Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano']",100.50678020833313
+127,Flocessy Ranch,B- major,0.8854027117227314,4/4,"['Organ', 'Organ', None, 'Organ', 'StringInstrument', 'Violoncello', 'StringInstrument', None, None, None]",29.986979166666583
+128,Flocessy Town,c# minor,0.775118383609992,4/4,"['Organ', None, None, None, None, 'Church Bells', 'Organ', 'Church Bells', None]",42.32793664583358
+129,Forest Stroll,c minor,0.815187188510245,4/4,"[None, 'Timpani', None, None, None, None, 'Fretless Bass', 'Timpani', None, None]",63.33019643750092
+130,Frozen Opelucid,g# minor,0.7609261921886041,4/4,"['Piano', None, 'Piano', None, None, 'Piano', 'Piano', None, None, None]",57.25850745833381
+131,Full Habitat Dex Complete!,c minor,0.8937697226482402,4/4,"[None, None, None, 'Violoncello', None, None, None, None]",2.37433625
+132,Funfest Mission,A- major,0.6797093740452356,4/4,"[None, None, None, None, None, None, None, None, None]",37.16547437500054
+133,Game Sync,g minor,0.9066895042096053,4/4,"[None, None, None, None, 'Piano', 'Piano', 'Piano', None, None]",32.48612735416629
+134,GameFreak Logo,F major,0.4836948148949649,4/4,"['Piano', None, None, None, None, 'Piano', None, None]",8.787500000000009
+135,Gear Station,A major,0.8349003496018035,4/4,"['Piano', None, None, None, None, 'Piano', None, 'Piano', 'Piano', None, 'Piano']",72.18750000000156
+136,Ghetsis' Chamber,F major,0.5056038789721226,4/4,"[None, None, None, None, None, None, None]",29.990234375
+137,Global Terminal,F major,0.8282277202792723,4/4,"['StringInstrument', None, None, 'Piano', None, None, None, None]",64.19592620833262
+138,Global Trade Station,E- major,0.7683249796030442,4/4,"[None, None, None, 'Electric Bass', 'Acoustic Bass', 'Fretless Bass', None, None, None, None, 'Clavichord']",43.99999999999969
+139,Gym Leader's Last Stand!,G major,0.8138633058511788,4/4,"['Trumpet', 'Horn', 'Violin', None, 'Electric Bass', 'Horn', 'Glockenspiel', None, 'Trumpet', None]",50.547788958333626
+140,Gym Theme,a minor,0.8119369859690558,4/4,"[None, 'Acoustic Bass', 'Reed Organ', None, None, 'Acoustic Bass', None, None, None]",41.5840212291671
+141,Habitat Dex Complete!,c minor,0.759049437550832,4/4,"[None, None, None, 'Violoncello', None, None, None, None]",2.0568762500000006
+142,Healing Jingle,E major,0.7603270880564592,4/4,"[None, None, None, 'Piano', None, None, None, None, 'Piano', None]",2.111740312499999
+143,Hidden Grotto,a minor,0.45038928159151065,4/4,"['Vibraphone', None, None, 'Vibraphone']",17.766217916666662
+144,Humilau City Gym,a minor,0.6853869825044105,4/4,"['StringInstrument', None, None, 'Reed Organ', 'Saxophone', 'StringInstrument', None, 'Reed Organ', None]",49.21475835416644
+145,Humilau City,E major,0.7755984045803826,4/4,"['Piano', None, 'Acoustic Bass', 'Organ', 'Piano', None, None, None, None, 'Organ']",80.98958333333353
+146,Icirrus City,G major,0.9307298229735993,4/4,"['Fretless Bass', 'Xylophone', 'Reed Organ', 'Church Bells', 'Harpsichord', None, 'Guitar', 'Fretless Bass', None, None, 'Xylophone']",54.37817035416733
+147,Infiltrate! Plasma Frigate,g minor,0.5035291240788278,4/4,"['Violoncello', None, None, 'Voice', None, 'Piano', 'Piano', None, 'Violoncello', None, None]",55.98958333333287
+148,Introducing...!,F major,0.7074681911762704,4/4,"['Violoncello', 'Timpani', None, None, None, 'Fretless Bass', 'Violoncello', None]",16.65119485416668
+149,Item Received!,A- major,0.7480259494677448,4/4,"[None, None, None, 'StringInstrument', None, None, None, None]",1.9999970000000011
+150,Join Avenue (Greeting!),G major,0.8478765338447749,4/4,"[None, None, None, 'Soprano Saxophone', 'Piano', 'Piano', 'Soprano Saxophone', None, None]",29.757734083332913
+151,Join Avenue Level Up #1,F# major,0.7694742806300146,4/4,"['Vibraphone', None, None, None, None]",2.876599687500001
+152,Join Avenue Level Up #2,E major,0.7376172592322472,4/4,"['Vibraphone', None, None, None, None, None]",4.799674687499997
+153,Join Avenue,a minor,0.7714577462513835,4/4,"['Acoustic Bass', None, None, None, None, None, 'Acoustic Bass', None, None, None, None]",41.894799374999614
+154,Key Item Received!,e- minor,0.7356727172325994,4/4,"[None, None, None, None, 'Xylophone', None, None]",2.1102930625000016
+155,Lacunosa Town,b- minor,0.9032314173156447,4/4,"['Piano', 'Reed Organ', None, None, 'Reed Organ', 'Reed Organ', None]",53.31595089583398
+156,Lake Cavern,c minor,0.648771802162179,4/4,"['Fretless Bass', 'Trumpet', None, 'Accordion', 'StringInstrument', 'Saxophone', None, 'Timpani']",63.979166666666735
+157,LCG 01,d minor,0.9493878994852849,4/4,"['Piano', None, None, None, None, None, None, None]",1.6131740624999993
+158,LCG 02,d minor,0.563959809553483,4/4,"['Piano', None, None, None, None, None]",2.5929028124999953
+159,LCG 03,E major,0.5056038789721223,4/4,[None],12.565790520833334
+160,LCG 04,F major,0.7386160627196517,4/4,"['Piano', None]",1.5916666666666666
+161,Legend is Born [B],c# minor,0.6977495022426473,4/4,"[None, None, 'Electric Bass', None, 'Soprano Saxophone', None, None, None, None, None, None]",44.44862100000003
+162,Legend is Born [W],c# minor,0.7219559840821834,4/4,"[None, None, 'Electric Bass', None, 'Soprano Saxophone', None, None, None, None, None, None]",44.448621000000024
+163,Lentimas Town,f# minor,0.6510204202456145,4/4,"[None, None, None, None, 'Clavichord', None, None, None, None]",45.813494354166174
+164,Level Up!,E major,0.7968319619531563,4/4,"['Fretless Bass', None, 'StringInstrument', 'Fretless Bass']",0.7642853958333334
+165,Lostlorn Forest,A- major,0.5162038443358309,4/4,"['Bassoon', 'Soprano Saxophone', None, None, 'Clarinet', 'Bassoon', None, 'Clarinet', None, None]",62.658463249998626
+166,Marine Tube,E- major,0.7815541636753467,4/4,"['Marimba', None, None, None, 'Vibraphone', None, None, 'Shehnai', 'Celesta', None]",73.07379510416584
+167,Marvelous Bridge,C major,0.801012561940131,4/4,"[None, None, 'Electric Bass', 'Piano', None, None, None, 'Piano', None]",48.670637354166715
+168,Medal Box Update!,C major,0.8778371398075672,4/4,"['Piano', None, None, None, None, None, None]",3.2094562499999904
+169,Medal Rally Goal Reached,F major,0.5652712188427685,4/4,"[None, 'Fretless Bass', 'Violin', None, 'Violoncello', None, None, None]",3.1496723125
+170,Mission Completed!,B major,0.5561811808629978,4/4,"[None, 'Violin', None, 'Violoncello', None, None, None, None]",4.576275
+171,Mission Failed!,F major,0.4526040489458286,4/4,"[None, None, 'Violin', 'Violoncello', None, None, None, None]",2.588233999999999
+172,Mission Started!,b- minor,0.787589434377672,4/4,"[None, 'Violin', None, None, 'Violoncello', None, None, None]",4.329549062499999
+173,Mistralton City Gym,F# major,0.8410269291504179,4/4,"[None, None, None, None, None, 'Violoncello', None, None, 'Violoncello']",35.98958333333347
+174,Mistralton City,b minor,0.7189933033648844,4/4,"[None, None, None, None, None, None, None, 'Piano', None, None, None]",78.37587583333156
+175,Move Deleted!,A major,0.5778503557663771,4/4,"['Clavichord', 'Clavichord', 'Clavichord', 'Clavichord', None, 'Piano']",1.8750000000000002
+176,Musical Hall,F major,0.935152262206226,4/4,"[None, None, 'Electric Bass', None, None, None, None, 'Dulcimer', 'Dulcimer', None]",45.98606512500035
+177,Musical Scale 1,a minor,0.8244113808402684,4/4,['Piano'],3.9895833333333335
+178,Musical Scale 2,a minor,0.8244113808402684,4/4,['Piano'],3.9895833333333335
+179,Musical Scale 3,a minor,0.8244113808402684,4/4,['Piano'],3.9895833333333335
+180,Musical Scale 4,a minor,0.8244113808402684,4/4,['Piano'],3.9895833333333335
+181,Mystery Gift,D major,0.8862051896093459,4/4,"['Piano', 'Piano', None, 'Piano', 'Piano', 'Electric Bass', 'Accordion', None, None, 'Piano', 'Piano']",42.65736474999991
+182,Mystery Item Received!,b- minor,0.7784916675985699,4/4,"['Violoncello', None, None, None, 'Violin', None, 'Piano', 'Violoncello', None, None]",3.103446
+183,N's Bridge,b minor,0.8059968509457642,4/4,"[None, None, None, None, 'Electric Bass', None, 'Violoncello', None, 'Violoncello', None]",52.35231635416683
+184,N's Castle,d minor,0.6195464082849477,4/4,"[None, None, 'Electric Bass', 'Pan Flute', None, None, 'Church Bells', None, None, None, 'Pan Flute']",51.68264062499974
+185,N's Dragon [B],c# minor,0.4158235362435236,4/4,"[None, None, 'Electric Bass', 'Violoncello', None, None, 'Electric Bass', 'Violoncello', None, None, None]",41.83662533333314
+186,N's Dragon [W],c# minor,0.41708827908303775,4/4,"[None, None, 'Electric Bass', 'Violoncello', None, None, 'Electric Bass', 'Violoncello', None, None, None]",41.83662533333312
+187,N's Farewell,E- major,0.8921730138487647,4/4,"['Piano', None, None, None, None, None, None, 'Piano']",91.19733618749952
+188,N's Room,f# minor,0.6740687335668059,4/4,"['Electric Organ', 'Electric Organ', 'Electric Organ', 'Electric Organ']",22.3082863541667
+189,N's Ruined Castle,F major,0.8185038883826403,4/4,"[None, None, 'Electric Bass', None, None, None, None, 'Electric Bass', None]",50.81154256249979
+190,N's Ruined Room,f minor,0.6674412199618646,4/4,"['Electric Organ', 'Electric Organ', 'Electric Organ', 'Electric Organ']",25.14576472916663
+191,Nacrene City,D major,0.9719959871220761,4/4,"[None, None, None, None, None, None, None, None, 'Xylophone', 'Xylophone', 'Piano']",96.44686164583182
+192,Nimbasa City Gym,f minor,0.49461401946820777,4/4,"[None, 'Bagpipes', None, None, 'Organ', 'Organ', 'Bagpipes', 'Bagpipes', None, None]",15.989583333333313
+193,Nimbasa City,g# minor,0.8741440420012011,4/4,"[None, None, None, 'Violin', 'Guitar', None, None, None, None, None]",55.03768362500038
+194,Nimbasa Gym Runway,a minor,0.29894089704540483,4/4,"['Guitar', 'Brass', 'Brass', 'Organ', 'Harmonica', None, 'Bagpipes', 'Bassoon', 'Bassoon', 'Brass', None]",41.98958333333321
+195,Nintendo Wi-Fi Connection,e minor,0.8841518424098281,4/4,"['Harpsichord', None, 'Organ', None, 'Harpsichord', None, None, None]",40.18333333333278
+196,Now for the Adventure!,B major,0.600710914940165,4/4,"[None, 'Violoncello', None, 'Violin', 'Violoncello', None, None, None]",7.8269152500000105
+197,Nuvema Town,D major,0.8915159124102521,4/4,"['Timpani', 'Violoncello', 'Reed Organ', 'Organ', 'Reed Organ', 'Organ', 'Harpsichord', 'Timpani']",49.640792187500075
+198,Opelucid City Gym,A major,0.6960420105271422,4/4,"[None, None, 'Electric Bass', 'Violin', None, None, None, 'Violin', None, None, None]",47.621930583333246
+199,Opelucid City [B],b- minor,0.8191817630732493,4/4,"['Acoustic Bass', None, None, 'Piano', 'StringInstrument', 'Acoustic Bass', 'Horn', None, 'Acoustic Bass', 'Acoustic Bass', None]",123.86089535416173
+200,Opelucid City [W],A- major,0.9489903368502811,4/4,"[None, 'Piano', 'Piano', 'Vibraphone', None, 'Vibraphone', None, None, 'Acoustic Bass']",100.4791666666666
+201,Outside Reversal Mountain,g minor,0.7388382426196383,4/4,"[None, 'Church Bells', 'Contrabass', None, None, None, 'Contrabass', None, None]",27.68770125000006
+202,Palpark [Catch Your Pokemon!],F# major,0.8263645539848581,4/4,"[None, None, None, None, None]",25.563510104166554
+203,Palpark [Select a Box!],e- minor,0.7850666901784388,4/4,"[None, None, None, None, None]",15.22113862499997
+204,Plasma Frigate Deck,E- major,0.5339479401024266,4/4,"['Violoncello', 'Celesta', None, 'Harp', 'Brass', None, 'Harp', None, None, None, 'Violoncello']",45.847128833332874
+205,Plasma Frigate Takeoff!,A- major,0.33590340969295523,4/4,"['Violin', 'Violoncello', None, None, None, None, 'Violin', 'Violoncello', None, None]",42.28213193749977
+206,Pokdex Rating! [A Little More],g minor,0.7164959323367771,4/4,"[None, 'Violin', 'Violoncello', None, None, None, None, None]",2.9375
+207,Pokdex Rating! [Getting Better],B- major,0.75632564587814,4/4,"[None, 'Violin', 'Violoncello', 'Electric Guitar', None, None, None]",3.0
+208,Poke Transfer Lab,F major,0.511564257359521,4/4,"['Guitar', None, None, None, None, 'Guitar', None, None]",23.98958333333346
+209,Pokedex Completed!,B- major,0.813184272029198,4/4,"[None, 'Violin', 'Violoncello', 'StringInstrument', None, None, 'Electric Bass', None]",5.955879375000013
+210,Pokedex Rating! [Keep It Up],e minor,0.8169628720554105,4/4,"[None, None, None, None, None, None, None, None]",3.3203125
+211,Pokedex Rating! [Not Yet],F major,0.676744792080731,4/4,"['Marimba', 'Vibraphone', None, None, 'Marimba', None, None]",2.6857131666666683
+212,Pokedex Rating!,D major,0.6033956680390694,4/4,"[None, 'Violin', None, 'Marimba', None, None, None, None]",2.741666666666664
+213,Pokemon Center,F major,0.914159047701676,4/4,"[None, 'Fretless Bass', 'Reed Organ', 'Church Bells', None, None, 'Harpsichord', None, None, None, 'Fretless Bass']",31.989583333333478
+214,Pokemon Egg Received!,F major,0.8363160060026591,4/4,"[None, None, None, None, None, 'Vibraphone']",2.128165479166663
+215,Pokemon Evolving!,a minor,0.8164503352694993,4/4,"[None, 'Reed Organ', None, None, 'Harmonica', None, None, None]",30.95766335416707
+216,Pokemon League,c minor,0.7381884508676483,4/4,"[None, None, 'Electric Bass', 'Violin', 'Violoncello', None, None, None, None]",36.11458333333343
+217,Pokemon Quiz!,e minor,0.5095301431989817,4/4,"['Horn', 'Brass', 'Horn', None]",0.3125
+218,Pokemon Received!,F major,0.9312149089405296,4/4,"[None, 'Violin', None, 'Vibraphone', None, None, None, None, None]",3.7345641666666713
+219,PokeStar Studios,c minor,0.7540555661431082,4/4,"['Acoustic Bass', None, 'Brass', 'Vibraphone', None, 'Harp', 'Violin', 'Fretless Bass', 'Electric Bass', 'Fretless Bass', None]",56.1867332083327
+220,Prof. Juniper's Lab,F# major,0.8939078443585082,4/4,"['Timpani', 'Reed Organ', None, None, None, 'Dulcimer', 'Timpani', None]",45.69737222916648
+221,PWT Lobby,g# minor,0.9110709853278067,4/4,"['Violoncello', 'Violin', 'StringInstrument', 'Brass', 'Fretless Bass', None, 'Vibraphone', 'Vibraphone', 'Harp', None, 'Fretless Bass']",72.71773031250123
+222,PWT Venue,b- minor,0.6017669155641315,4/4,"[None, None, None, 'Brass', 'Fretless Bass', None, None, None, 'Harp', None, None]",23.005142354166715
+223,Raffle Won!,F major,0.7509183020244878,4/4,"['StringInstrument', None, None, None, None, None, None]",1.8675602708333334
+224,Relic Castle,e- minor,0.9301965874020195,4/4,"[None, None, None, 'Accordion', None, None, None, 'Vibraphone', None, 'Vibraphone', None]",60.790699125000536
+225,Relic Song,g# minor,0.9357963198820034,4/4,"['Reed Organ', 'Reed Organ', None, None, 'StringInstrument', None, 'Reed Organ', 'Reed Organ', None, 'StringInstrument', 'Reed Organ']",37.46957199999975
+226,Reversal Mountain [B],C major,0.8521130887491808,4/4,"['StringInstrument', None, None, None, None, None, 'StringInstrument', None, 'StringInstrument']",84.93355612499951
+227,Reversal Mountain [W],C major,0.7121895919087048,4/4,"[None, None, None, None, None, None, None, None, None, None]",59.45791406250007
+228,Route 1,g minor,0.7753083936116347,4/4,"['StringInstrument', None, None, 'Vibraphone', 'StringInstrument', 'Piano', 'StringInstrument', 'Vibraphone', None]",37.8125302500001
+229,Route 10,c minor,0.9008759238410841,4/4,"['StringInstrument', 'Organ', 'Electric Guitar', 'Reed Organ', None, None, 'Organ', 'StringInstrument', None]",68.56243143750241
+230,Route 11 [Autumn],B major,0.82594161362855,4/4,"['Violoncello', 'Harpsichord', None, None, None, 'Church Bells', 'Violoncello', None]",53.984375
+231,Route 11 [Spring],B major,0.8134135309144951,4/4,"['Violoncello', None, None, None, None, 'Church Bells', 'Violoncello', None, None]",53.984375
+232,Route 11 [Summer],B major,0.8270548423030404,4/4,"['Violoncello', None, None, None, None, 'Church Bells', 'Violoncello', None, None]",53.984375
+233,Route 11 [Winter],B major,0.8312838456267294,4/4,"['Violoncello', None, None, None, None, 'Church Bells', 'Violoncello', None]",53.984375
+234,Route 19 [Autumn],B- major,0.9262262445823489,4/4,"['StringInstrument', 'StringInstrument', None, 'Reed Organ', None, 'Reed Organ', None, None, None, None]",39.9426811875003
+235,Route 19 [Spring],B- major,0.9211795183970655,4/4,"['StringInstrument', 'StringInstrument', None, 'Reed Organ', None, 'Reed Organ', None, None, None, None]",39.942681187500284
+236,Route 19 [Summer],B- major,0.9220753294130326,4/4,"['StringInstrument', 'StringInstrument', None, 'Reed Organ', None, 'Reed Organ', None, None, None, None]",39.94268118750029
+237,Route 19 [Winter],B- major,0.9232530039240591,4/4,"['StringInstrument', 'StringInstrument', None, 'Reed Organ', None, 'Reed Organ', None, None, None, None]",39.94268118750034
+238,Route 2 [Autumn],G major,0.8934436442285497,4/4,"['Violoncello', None, None, 'Violoncello', 'Piano', 'Violoncello', 'Violoncello', None, None, None, 'Piano']",43.268418104166905
+239,Route 2 [Spring],G major,0.885409510101255,4/4,"['Violoncello', None, None, 'Violoncello', 'StringInstrument', 'Violoncello', 'Violoncello', None, None, None]",43.2684181041669
+240,Route 2 [Summer],G major,0.8867684940136438,4/4,"['Violoncello', None, None, 'Violoncello', None, 'Violoncello', 'Violoncello', None, None, None]",43.26841810416689
+241,Route 2 [Winter],G major,0.8923515724330817,4/4,"['Violoncello', None, None, 'Violoncello', None, 'Violoncello', 'Violoncello', None, None, None]",43.26841810416689
+242,Route 22 [Autumn],G major,0.7555984160078473,4/4,"[None, None, None, 'Violoncello', None, None, None, 'Church Bells', None]",38.551548749999554
+243,Route 22 [Spring],G major,0.7686135861270941,4/4,"[None, None, None, 'Violoncello', None, None, None, None, None]",38.55154874999954
+244,Route 22 [Summer],G major,0.7459719195588099,4/4,"[None, None, None, 'Violoncello', None, None, None, None, None]",38.55154874999946
+245,Route 22 [Winter],G major,0.7910338233776486,4/4,"[None, None, None, 'Violoncello', None, None, None, None, None]",38.55154874999951
+246,Route 23,A major,0.6457002892275007,4/4,"['Fretless Bass', 'Violin', 'Brass', None, None, 'Harp', 'Fretless Bass', None, 'Acoustic Bass', None]",63.27912435416626
+247,Route 4 [Autumn],B major,0.7318081750995796,4/4,"[None, 'StringInstrument', None, 'Violoncello', None, 'Violin', 'Violoncello', None, None, None, 'Marimba']",44.759570624999775
+248,Route 4 [Spring],B major,0.7351814434338957,4/4,"[None, 'StringInstrument', None, 'Violoncello', None, 'Violin', 'Violoncello', None, None, None, 'StringInstrument']",44.75957062499973
+249,Route 4 [Summer],B major,0.7410128159114098,4/4,"[None, 'StringInstrument', None, 'Violoncello', None, 'Violin', 'Violoncello', None, None, None, None]",44.75957062499976
+250,Route 4 [Winter],B major,0.7405668083530768,4/4,"[None, 'StringInstrument', None, 'Violoncello', None, 'Violin', 'Violoncello', None, None, None, 'Dulcimer']",44.75957062499977
+251,Route 6 [Autumn],f minor,0.6430059424344561,4/4,"[None, None, 'Contrabass', None, 'Violoncello', None, None, None, None, 'Violoncello', None]",36.52774124999963
+252,Route 6 [Spring],f minor,0.6358312977997448,4/4,"[None, None, 'Contrabass', None, 'Violoncello', None, None, None, None, 'Violoncello', 'StringInstrument']",36.52774124999965
+253,Route 6 [Summer],f minor,0.6407687102777176,4/4,"[None, None, 'Contrabass', None, 'Violoncello', None, None, None, None, 'Violoncello', None]",36.8200000000002
+254,Route 6 [Winter],f minor,0.6386752515309688,4/4,"[None, None, 'Contrabass', None, 'Violoncello', None, None, None, None, 'Violoncello', 'Electric Organ']",36.82000000000001
+255,Route Gate,C# major,0.9029617558760179,4/4,"['Piano', 'Piano', None, None, None, None, None, None]",53.31947110416636
+256,S.S. Royal Unova,C major,0.9783502049909231,4/4,"[None, None, None, None, None, None]",47.98958333333326
+257,Save File Deleted!,f minor,0.7909345906043908,4/4,"['Piano', 'Piano']",1.3208333333333322
+258,Sealed Chamber,F# major,0.5354996251525891,4/4,"['Violoncello', 'Fretless Bass', None, 'Violoncello', None, None, 'Fretless Bass', None, None, None, None]",35.73582274999993
+259,SEQ_BGM_SHINKA,G major,0.632599426564535,4/4,"['Glockenspiel', 'Glockenspiel']",0.5846774583333336
+260,SEQ_BGM_STARTING2,B major,0.7384345335160382,4/4,"[None, 'StringInstrument', None, 'Violoncello', None, 'Violin', 'Violoncello', None, None, None]",33.682658624999725
+261,SEQ_BGM_SW_DEMO_FLIGHT,f# minor,0.7580606986586534,4/4,"['Vibraphone', None, 'Organ', 'Dulcimer', None, None, None, 'Piano', None]",13.527784541666596
+262,Shopping Mall 9,B- major,0.9019920206037128,4/4,"['Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', None]",53.32402074999896
+263,Signs of Beginning [BW2],A major,0.7625282942665863,4/4,"['Piano', None, 'Electric Bass', None, 'Piano', 'Piano', None, None, None]",32.71808162499982
+264,Skyarrow Brdige,F major,0.6543031691763945,4/4,"['Piano', None, 'Electric Guitar', 'Reed Organ', None, 'Piano', None, None, None, None, None]",37.88378708333312
+265,Someone's Entralink,C major,0.8240671990014331,4/4,"[None, 'Guitar', None, None, None, None]",33.48749999999969
+266,Spin Trade,C# major,0.8510131369011021,4/4,"['Organ', 'Piano', 'Vibraphone', 'Organ', None, None, None, None]",18.901496250000278
+267,Stardom!,e- minor,0.7492709497035382,4/4,"[None, None, None, None, None, None, None, None, None, None, None]",68.62999999999906
+268,Striaton City,F major,0.8587076982753604,4/4,"[None, 'Violoncello', None, 'Organ', None, 'Violoncello', None]",30.84526122916649
+269,Surfing Theme,e minor,0.9179445423639264,4/4,"[None, None, None, 'Violoncello', None, None, 'Piano', None, None, None, 'Piano']",38.324683437499694
+270,The End [BW2],B major,0.698377999903244,4/4,"[None, None, None, None, None, None]",49.47064568749977
+271,The Rising of N's Castle,g minor,0.686624751712818,4/4,"[None, None, None, 'Electric Bass', 'Electric Bass', 'Violoncello', None, 'Violoncello', None, None, None]",54.356970062499805
+272,Theme of Confrontation,a minor,0.746957258633929,4/4,"[None, None, None, None, None, None, None, None]",35.98612910416628
+273,Theme of Defeat,F major,0.8682148524067296,4/4,"['Guitar', 'Guitar', None, None, None, None, None]",31.18951820833324
+274,Theme of Despair,e- minor,0.67603690565138,4/4,"['Violoncello', 'Church Bells', 'Electric Bass', None, 'Fretless Bass', 'Violoncello', None, None]",35.999999999999964
+275,Theme of Elimination,A major,0.6317933059973343,4/4,"[None, None, None, None, None, 'Clavichord', 'Clavichord', None, None]",23.085294374999886
+276,Theme of Fear,C major,0.5366953055456511,4/4,"[None, 'Clavichord', None, 'Soprano Saxophone', None, 'Soprano Saxophone', None]",36.911052770833535
+277,Theme of Glory,A- major,0.7797424939642873,4/4,"[None, None, None, 'Guitar', None, None, None, None]",30.2083363541665
+278,Theme of Horror,A major,0.4779388048989741,4/4,"['Piano', 'Piano', None, 'Violin', None, 'Trumpet', 'Timpani', None, None, None, 'Piano']",37.59867199999953
+279,Theme of Humour,A- major,0.5331041643407066,4/4,"['StringInstrument', 'StringInstrument', None, None, None, 'Marimba', 'Marimba', None, None]",18.450872229166613
+280,Theme of Invasion,c minor,0.48331389436650435,4/4,"[None, 'Piano', 'Brass', 'Violin', None, 'Harp', None, 'Clarinet', None]",14.991331437500103
+281,Theme of Love,B- major,0.9125225663884284,4/4,"[None, 'Fretless Bass', None, 'Fretless Bass', 'Fretless Bass', None, None, None, None, None, None]",26.33596579166658
+282,Theme of Pathetique,a minor,0.8233050555359647,4/4,"['Acoustic Bass', 'Clavichord', 'Electric Bass', None, 'Clavichord', 'Acoustic Bass', 'Electric Bass']",24.505608833333373
+283,Theme of Purification,F major,0.8244795334850904,4/4,"['Soprano Saxophone', 'Soprano Saxophone', None, 'Soprano Saxophone', 'Soprano Saxophone', 'Soprano Saxophone', None, 'Soprano Saxophone', None, None]",35.544009916666596
+284,Theme of Shock,a minor,0.7288724301362145,4/4,"['Piano', 'Piano', None, None, None, None, 'Piano', None, 'Piano', None]",21.014977229166504
+285,Theme of Strange,B major,0.6349639240204208,4/4,"['Piano', None, None, None, 'Piano', None, None, None, None, None]",33.867630125000005
+286,Theme of Success,F major,0.7495175698292,4/4,"[None, 'StringInstrument', 'Brass', None, None, None, None, 'Violin', 'Violin', None]",19.207523062499895
+287,Title Screen [BW2],G major,0.6003654841223109,4/4,"['Acoustic Bass', None, 'Brass', 'Fretless Bass', 'Violin', None, 'Clavichord', 'Violin', 'Glockenspiel', None, 'Acoustic Bass']",41.38630127083323
+288,Title Screen,f minor,0.6559553073171056,4/4,"[None, 'Trumpet', 'Electric Bass', 'Violoncello', 'Violin', None, None, 'Violoncello', 'Fretless Bass', 'Church Bells', None, 'Violin']",76.48604245833258
+289,TM Received!,G major,0.8829657757429529,4/4,"['StringInstrument', None, None, None, None, None, None, None, 'StringInstrument']",2.975744979166666
+290,To Each Future,e minor,0.8623811717082478,4/4,"[None, None, 'Electric Bass', None, None, None, 'Violoncello', 'Pan Flute', 'Church Bells', None, 'Violoncello', None, None]",140.04806987499896
+291,Trouble Occurs!,c minor,0.49626936537772726,4/4,"[None, None, None, None, 'Violin', 'Marimba', None, 'Violoncello', None, None]",22.70533443749993
+292,Tubeline Bridge,F major,0.662651162803209,4/4,"[None, None, None, None, None, None, None, None, None, None]",37.98958333333363
+293,Twist Mountain,G major,0.6902700247168387,4/4,"[None, None, 'Church Bells', None, None, None, None, None]",39.989583333333336
+294,"Undella Town [A,S,W]",B- major,0.8735747818306595,4/4,"[None, None, None, None, None, None, None, None, None, None]",68.55358285416622
+295,Undella Town [Summer],A major,0.5831288248659557,4/4,"[None, 'Violin', 'Electric Guitar', 'Guitar', None, None, None, None, None, None]",41.368504145833995
+296,Unity Tower,F major,0.8891533805652564,4/4,"[None, 'Violoncello', None, None, None, None, 'StringInstrument', 'StringInstrument', None, None]",34.58335581250012
+297,Unova Link,g minor,0.705232755532654,4/4,"['Piano', None, None, None, None, 'Piano', 'Piano', None]",13.98958333333327
+298,Unwavering Emotions,A major,0.8824566737918191,4/4,"['Piano', 'Piano', None, None, None, None, None, None, None]",49.1416235624998
+299,Victory Road,E- major,0.34714822244695315,4/4,"['Violoncello', 'Church Bells', 'Electric Bass', 'Violoncello', None, None, 'Contrabass', 'Violoncello', None, None]",50.959271750000354
+300,Victory! Champion Alder,a minor,0.7733220241590373,4/4,"[None, 'Violoncello', None, None, None, None, 'Church Bells', None, None, None]",26.958596666666814
+301,Victory! Gym Leader,D major,0.8979339543464069,4/4,"['StringInstrument', None, 'Violin', None, None, None, 'StringInstrument', 'StringInstrument', None, 'Acoustic Bass']",37.810568250000955
+302,Victory! PWT Champion,e minor,0.8253002502413683,4/4,"['StringInstrument', None, 'Brass', 'Harp', 'Piano', 'StringInstrument', 'Fretless Bass', 'Violoncello', None, None, 'StringInstrument']",16.602968958333378
+303,Victory! Team Plasma Grunt,C# major,0.7863397604606,4/4,"['Violoncello', 'Soprano Saxophone', None, 'Harp', 'Violoncello', None, 'StringInstrument', 'Brass', None, 'Violoncello', None]",32.10432579166654
+304,Victory! Trainer,D major,0.7948204402610154,4/4,"[None, None, 'Violin', 'StringInstrument', None, None, None, 'StringInstrument', None]",19.626681499999997
+305,Victory! Wild Pokemon,e minor,0.7711112789232208,4/4,"[None, None, 'Acoustic Bass', 'StringInstrument', None, None, 'StringInstrument', None, 'Violoncello', None]",14.20230831249993
+306,Village Bridge,F major,0.9292705503543658,4/4,"[None, 'Bassoon', 'Bassoon', 'Piano', None, 'Piano', 'Bassoon', None, None]",87.4107288541664
+307,Virbank City Gym,B major,0.4848876699244861,4/4,"[None, None, None, None, None, None, None, 'Sitar', 'Ocarina', 'Bagpipes', 'Bagpipes']",34.99134743750013
+308,Virbank City,c minor,0.9343428482688532,4/4,"[None, 'Piano', None, 'Guitar', None, 'Piano', None, None, 'Guitar', None]",49.39338564583397
+309,Virbank Complex.,f minor,0.46945455503780453,4/4,"[None, None, None, None, None, None, None, None, None, None]",34.83066547916659
+310,White Forest,D major,0.8808111627091807,4/4,"[None, 'StringInstrument', 'Electric Guitar', None, None, None, 'Vibraphone', 'StringInstrument', None, None]",42.0859375
+311,White Treehollow Lobby,C major,0.7397615183675159,4/4,"[None, 'Vibraphone', 'Electric Bass', None, None, None, None, None, None]",30.226381479166736
+312,White Treehollow,E- major,0.8670058446292948,4/4,"['StringInstrument', None, None, 'Piano', 'Reed Organ', None, 'StringInstrument', 'Piano', None, None]",52.855531895833956
+313,Won the PWT!,a minor,0.7744973340410665,4/4,"['Violin', None, None, 'Brass', None, None, None, None, 'Harp', None, None]",21.575018812499973
+314,Xtransceiver Minigame!,B major,0.7159623573795554,4/4,"[None, None, 'StringInstrument', None, None, None, None, None, None, None]",38.39166666666631
+315,Xtrasceiver Call (Long),B major,0.786724774860239,4/4,"['Piano', 'Piano', None]",7.195833333333331
+316,Xtrasceiver Call,B major,0.7115622675468499,4/4,"['Piano', 'Piano', None]",3.4458333333333355
+317,Amity Square,A major,0.8861737732607625,4/4,"['Oboe', 'StringInstrument', 'StringInstrument', 'Acoustic Bass', 'StringInstrument', 'Harp', 'StringInstrument', 'Harp', 'StringInstrument', None]",55.302734375
+318,Azure Flute,A- major,0.4891893279030564,4/4,"['Flute', 'Flute', 'Flute', 'Shakuhachi']",13.582224458333274
+319,Badge,g minor,0.8814210689260255,4/4,"['Flute', 'Trumpet', 'StringInstrument', 'Timpani', 'Horn', 'Trumpet', 'Trumpet', None]",4.5746564375000025
+320,Barry,d minor,0.8425014563752272,4/4,"['StringInstrument', 'StringInstrument', 'Trumpet', None, 'Organ', 'Organ', 'Clavichord', 'Clavichord', 'Timpani']",30.425752020833375
+321,Battle (Arceus),C major,0.8385413574643974,4/4,"['StringInstrument', 'Trumpet', 'Trumpet', 'Trombone', 'Timpani', 'Timpani', 'Timpani', None, 'Timpani']",79.9916666666664
+322,Battle (Barry),C major,0.65290458341904,4/4,"[None, 'Trumpet', 'Trumpet', 'Accordion', 'Marimba', 'Marimba', 'Organ', None]",65.56696939583234
+323,Battle (Cynthia),B major,0.6869469812399924,4/4,"[None, 'Shakuhachi', 'Horn', 'Horn', 'Shakuhachi', 'Shakuhachi', 'Reed Organ', None, 'Timpani']",85.04153950000106
+324,Battle (Cyrus),C major,0.4667889026637816,4/4,"[None, 'StringInstrument', 'Trumpet', 'Harp', 'Trumpet', 'Organ', 'Trumpet', 'StringInstrument', None, 'Timpani']",128.9070891458403
+325,Battle (Elite Four),b minor,0.6397571841804822,4/4,"['StringInstrument', 'StringInstrument', 'Trumpet', 'StringInstrument', 'Horn', 'Trumpet', 'StringInstrument', 'Timpani', None]",91.99990799999934
+326,Battle (Frontier Brain),a minor,0.7811104472228114,4/4,"['Shakuhachi', 'Reed Organ', 'Reed Organ', 'Reed Organ', 'Reed Organ', 'Reed Organ', 'Reed Organ', 'Electric Organ', 'Acoustic Bass', 'Harpsichord']",93.46696506249951
+327,Battle (Giratina),c minor,0.6558413277001125,4/4,"['Shakuhachi', 'Shakuhachi', 'Shakuhachi', 'Church Bells', 'StringInstrument', 'Piano', 'Church Bells', 'Horn', 'StringInstrument', None, 'Whistle']",114.14530150000641
+328,Battle (Gym Leader),C major,0.764842409856624,4/4,"['StringInstrument', 'StringInstrument', 'Trumpet', 'StringInstrument', 'Horn', 'Trumpet', 'StringInstrument', 'Timpani', None]",91.99990799999934
+329,Battle (Lake Guardians),f minor,0.5057105947337437,4/4,"[None, 'StringInstrument', 'Trumpet', 'Accordion', 'Accordion', 'Piano', 'Piano', None, None, 'Timpani']",109.67081956249783
+330,Battle (Legendary Golems),f# minor,0.5631338627574416,4/4,"['StringInstrument', 'Trumpet', 'Baritone Saxophone', 'Baritone Saxophone', None, None, None, None, 'Harpsichord']",58.901456250000344
+331,Battle (Legendary),f minor,0.7141088289684132,4/4,"['Soprano Saxophone', 'Trumpet', 'Trombone', 'StringInstrument', 'StringInstrument', 'Trombone', None, 'Timpani']",55.48379372916725
+332,Battle (Spear Pillar),C major,0.4209845437216334,4/4,"['Soprano Saxophone', 'StringInstrument', 'StringInstrument', None, 'StringInstrument', 'StringInstrument', 'StringInstrument', 'Piano', 'Timpani']",153.99290156250055
+333,Battle (Team Galactic Admin),C# major,0.545226563586266,4/4,"['Soprano Saxophone', 'Trombone', 'Trumpet', 'Trombone', 'Organ', 'Violin', 'Trumpet', None, None]",69.59375000000031
+334,Battle (Team Galactic),C# major,0.6457972830449933,4/4,"['Fretless Bass', 'Trumpet', 'Trumpet', 'Accordion', 'Accordion', 'Glockenspiel', 'Horn', None, 'Timpani']",75.6453905208332
+335,Battle (Trainer),f minor,0.8280358996641909,4/4,"[None, 'Trumpet', 'Trumpet', 'StringInstrument', 'Timpani', 'Trumpet', 'StringInstrument', 'Harpsichord', 'Timpani']",96.51495852083261
+336,Battle (Wild Pokemon),f minor,0.5502880077580306,4/4,"['Fretless Bass', 'Trumpet', 'Trumpet', 'Trumpet', 'StringInstrument', None, 'Trumpet', None, 'Timpani']",70.43391550000005
+337,Battle Arcade,E major,0.5891937083720117,4/4,"['Glockenspiel', 'Glockenspiel', 'Glockenspiel', 'Glockenspiel', 'Accordion', 'Accordion', 'Harpsichord']",89.27185762499992
+338,Battle Castle,F# major,0.8758844812524134,4/4,"['StringInstrument', 'StringInstrument', 'StringInstrument', 'StringInstrument', 'StringInstrument', 'Church Bells', 'Church Bells', 'Clarinet', 'StringInstrument']",126.11360816666675
+339,Battle Factory,B- major,0.7096782323853597,4/4,"['Shakuhachi', 'Viola', 'Viola', None, None, None, None, 'Harpsichord']",82.48697916666673
+340,Battle Hall,A major,0.7285377826861658,4/4,"['Vibraphone', 'Vibraphone', 'StringInstrument', 'StringInstrument', 'StringInstrument', 'StringInstrument', 'StringInstrument', 'Acoustic Bass', None]",86.54708210416793
+341,Battle Tower,C# major,0.6640365711077474,4/4,"['Organ', 'Brass', 'Organ', 'Organ', 'Organ', 'StringInstrument', None, None]",59.06724862500065
+342,Berry,F major,0.892754376963383,4/4,"['Xylophone', 'Xylophone', None, None, None, None, None]",1.2053559374999994
+343,Bicycle,c# minor,0.8415686533759092,4/4,"['StringInstrument', 'StringInstrument', 'Timpani', 'StringInstrument', 'Clarinet', 'Harp', 'StringInstrument', None, None]",71.85733385416601
+344,Canalave City (Night),G major,0.838615043605329,4/4,"['StringInstrument', None, None, None, None, None, 'StringInstrument', 'Harp', 'Harp', None]",91.36491968749934
+345,Canalave City,A major,0.8185623983304775,4/4,"['StringInstrument', None, None, None, None, None, 'StringInstrument', 'Harp', 'Harp', None]",84.51299062500152
+346,Contest Dress Up,F major,0.8256425308340338,4/4,"['Vibraphone', None, None, None, None, 'Acoustic Bass']",60.2499748958337
+347,Contest Hall,C major,0.7416325467020382,4/4,"[None, None, 'Church Bells', 'StringInstrument', 'StringInstrument', None, None]",47.990336625000275
+348,Dawn,C major,0.8460273947128163,4/4,"['Vibraphone', 'Vibraphone', 'Saxophone', None, None, None, 'Vibraphone', 'Vibraphone', None, None]",47.6090793749997
+349,Deep in the Hideout,c minor,0.6004902976575186,4/4,"[None, None, 'Bassoon', 'Bassoon', 'Bassoon', None, 'Acoustic Bass']",26.655113916666373
+350,Distortion World,B major,0.8100431390471681,4/4,"['Shakuhachi', 'Shakuhachi', 'Shakuhachi', 'Church Bells', 'Shakuhachi', 'Viola', 'Horn', 'Church Bells', 'StringInstrument', 'Whistle']",137.9895833333337
+351,Elite Four,B- major,0.6476353151651112,4/4,"['Church Bells', 'Horn', 'Trombone', None, 'Trumpet', 'Trumpet', None, 'Timpani', None]",74.56242543750119
+352,Encounter (Ace Trainer),d minor,0.7434011653955642,4/4,"['Trumpet', 'Trumpet', None, None, 'Vibraphone', None, None, None]",20.791666666666487
+353,Encounter (Artist),D major,0.7707333291189026,4/4,"[None, None, None, None, None, None]",32.23958333333336
+354,Encounter (Black Belt),C major,0.7229092315380845,4/4,"['Brass', None, None, None, None, 'Electric Bass', None]",10.065549375000003
+355,Encounter (Cynthia),b minor,0.8215863963046586,4/4,"[None, None, None, None, None, None, None, None]",40.38989187500069
+356,Encounter (Dancer I Think),b minor,0.7866818347311565,4/4,"['StringInstrument', 'StringInstrument', 'Saxophone', 'Fretless Bass', 'Guitar', 'StringInstrument', 'Guitar', None, None]",34.14532624999993
+357,Encounter (Elite Four),b- minor,0.662096454831184,4/4,"[None, None, None, None, 'Trumpet', 'Trumpet', None, None]",17.90111164583357
+358,Encounter (Frontier Brain),b- minor,0.662096454831184,4/4,"[None, None, None, None, 'Trumpet', 'Trumpet', None, None]",17.90111164583357
+359,Encounter (Hiker),B- major,0.7691662986769487,4/4,"['Clarinet', 'Clarinet', 'Accordion', 'Horn', 'Church Bells', 'Horn', None]",12.47500000000005
+360,Encounter (Lass),D major,0.6893334345570516,4/4,"[None, None, None, 'Fretless Bass', 'Vibraphone', 'Vibraphone', 'StringInstrument', 'Organ', 'Harpsichord']",11.178732541666648
+361,Encounter (Pokefan),D major,0.8285623733177799,4/4,"['Vibraphone', 'Vibraphone', None, 'Harp', 'Harp', 'Church Bells', 'Electric Bass', None]",16.281271708333286
+362,Encounter (Psychic),d minor,0.8004813247054434,4/4,"['Clarinet', 'Harp', 'Glockenspiel', None, None, None, 'Soprano Saxophone', None]",21.917102375000134
+363,Encounter (Rich Boy),c minor,0.6802655745521161,4/4,"['Trumpet', 'Horn', 'Horn', 'Trumpet', None, 'Trumpet', 'Fretless Bass', None]",22.8671875
+364,Encounter (Team Galactic),e minor,0.8803529889996289,4/4,"['Organ', 'Trumpet', 'Trumpet', 'Fretless Bass', 'Organ', 'Glockenspiel', 'Clavichord', 'Piano', None]",19.625016354166743
+365,Encounter (Triathlete),C major,0.9598633476016676,4/4,"['Trumpet', 'Trumpet', 'Trumpet', 'Trumpet', 'Trumpet', 'Vibraphone', 'Trumpet', 'Timpani', None]",25.404399062499785
+366,Encounter (Twins),a minor,0.7228963573452154,4/4,"[None, 'Fretless Bass', 'Marimba', 'Vibraphone', None, None, None, None, None]",11.067296624999983
+367,Encounter (Youngster),c# minor,0.8126304367849125,4/4,"[None, None, None, 'Marimba', 'Fretless Bass', None, 'Acoustic Bass', None]",13.980600000000038
+368,Encounter at the Lake,F major,0.332319811574317,4/4,"[None, 'StringInstrument', 'StringInstrument', 'StringInstrument', 'StringInstrument', 'StringInstrument', 'Timpani', None]",14.202308312499973
+369,Ending,C major,0.8564344671232934,4/4,"['Electric Guitar', 'StringInstrument', 'Guitar', 'Fretless Bass', 'Harmonica', 'Guitar', 'Guitar', 'Accordion', 'Harmonica', 'Harpsichord', None]",275.218982479179
+370,Eterna City (Night),C major,0.8480365853133844,4/4,"['Electric Guitar', 'Electric Guitar', 'Electric Guitar', 'Electric Guitar', 'Electric Guitar', None, 'Violin', 'Recorder', None]",98.02996687500107
+371,Eterna City,D major,0.8953721799998979,4/4,"['Electric Guitar', 'Electric Guitar', 'Electric Guitar', 'Electric Guitar', 'Electric Guitar', 'Harmonica', 'Violin', 'Recorder', None]",98.02996687500112
+372,Eterna Forest,e minor,0.7872501506182252,4/4,"['Flute', 'Flute', 'Harp', 'Harp', 'StringInstrument', 'Harp', 'Acoustic Bass', None]",75.78128031250006
+373,Evolution,G major,0.703664318067892,4/4,"['Recorder', 'Horn', 'Soprano Saxophone', 'Timpani', 'Recorder', 'Recorder', 'Vibraphone', 'Glockenspiel', None]",33.00000000000007
+374,Fight Area (Night),F major,0.8820457781798517,4/4,"['Trumpet', 'Trumpet', 'Trumpet', 'Trumpet', 'Trumpet', 'StringInstrument', 'Acoustic Bass', None]",61.5707483124998
+375,Fight Area,F major,0.8756722190834652,4/4,"['Trumpet', 'Trumpet', 'Trumpet', 'Trumpet', 'Trumpet', 'Church Bells', 'Acoustic Bass', None]",61.57074831249989
+376,Floaroma Town (Night),C# major,0.7977113665672392,4/4,"['Clarinet', 'Clarinet', 'StringInstrument', 'StringInstrument', 'Glockenspiel', 'StringInstrument', 'StringInstrument', 'StringInstrument', None]",71.975
+377,Floaroma Town,C# major,0.9056238006056729,4/4,"['Clarinet', 'Clarinet', 'Harp', 'Harp', 'Acoustic Bass', 'Harp', 'Harp', 'Harp', 'StringInstrument']",71.97499999999997
+378,Following,D major,0.7200849873918145,4/4,"[None, None, 'Vibraphone', None, 'Vibraphone', None, 'Electric Bass', None]",22.0
+379,Giratina Appears,c minor,0.7222671778746479,4/4,"['Horn', 'Horn', 'Horn', 'StringInstrument', None, None, 'Shakuhachi', 'Shakuhachi', None]",26.09166666666661
+380,Giratina Fanfare,E- major,0.4873512789302023,4/4,"['StringInstrument', 'Horn', 'Horn', None, 'Pan Flute', None, None, None]",10.855267499999997
+381,Great Marsh,b- minor,0.8056602187804262,4/4,"['Trumpet', 'Trumpet', 'Marimba', 'Fretless Bass', 'Fretless Bass', None, 'Soprano Saxophone', None]",55.62504635416684
+382,GTS,E- major,0.809111329496783,4/4,"['Clarinet', 'StringInstrument', 'StringInstrument', 'StringInstrument', 'StringInstrument', 'Flute', 'StringInstrument', 'Timpani', 'StringInstrument', None]",41.989583333333336
+383,Hall of Fame,c# minor,0.6774828939408553,4/4,"['Horn', 'Horn', 'StringInstrument', 'Flute', 'Church Bells', 'StringInstrument', 'Harp', 'StringInstrument', None]",41.13388743750052
+384,Hall of Origin,F major,0.42849598411358814,4/4,"['Shakuhachi', 'Shakuhachi', 'Saxophone', 'Fretless Bass', 'Vibraphone', 'Vibraphone', 'StringInstrument', 'Piano', 'Harp']",25.518622124999716
+385,Healing,E major,0.7155681033490502,4/4,"['Harp', 'Harp', 'Harp', 'Violoncello', None, None, 'StringInstrument', None, None]",1.922346562499999
+386,Hearthome City,C major,0.6897442790030741,4/4,"['Recorder', 'Recorder', None, None, 'Marimba', 'Xylophone', None, None]",60.79166666666601
+387,Item,A- major,0.7213533788684723,4/4,"['Harp', 'Harp', None, 'Flute', None, 'Harp']",1.8947340000000001
+388,Jubilife City (Nighrt),f# minor,0.27008540244491336,4/4,"[None, None, None, None, None, None, 'Saxophone', 'Acoustic Bass', None]",45.53829991666641
+389,Jubilife City,A- major,0.2210453356588831,4/4,"['Dulcimer', None, None, None, 'Dulcimer', 'Vibraphone', 'Vibraphone', 'Acoustic Bass', None]",44.56245543750038
+390,Key Item,e- minor,0.7070132016708207,4/4,"[None, None, 'Acoustic Bass', None, 'Xylophone', None]",2.0220578125000017
+391,Lake Cavern,c minor,0.648771802162179,4/4,"['Fretless Bass', 'Trumpet', None, 'Accordion', 'StringInstrument', 'Saxophone', None, 'Timpani']",63.979166666666735
+392,Lake,a minor,0.5778909886736401,4/4,"['Oboe', 'StringInstrument', 'StringInstrument', 'StringInstrument', 'StringInstrument', 'Harp', 'Oboe', 'Harp', None]",66.86197916666671
+393,Level Up,E major,0.8093381822458406,4/4,"['Harp', 'Harp', 'Harp', None, 'Flute', 'Harp']",0.7499996875000001
+394,Looker,d minor,0.8069208429546557,4/4,"['Trumpet', 'Trumpet', 'Trombone', 'Trombone', 'Trombone', 'Horn', 'Guitar', None, None]",30.3916666666666
+395,Lucas,D major,0.8861639123672062,4/4,"['StringInstrument', 'StringInstrument', 'Saxophone', None, None, None, 'Trumpet', 'Trumpet', None, None]",46.865234375
+396,Mount Coronet,f minor,0.8392841641678443,4/4,"['Harp', 'StringInstrument', 'StringInstrument', 'StringInstrument', 'StringInstrument', 'Trumpet', 'StringInstrument', 'Trombone', 'Trumpet', None]",84.79647006249968
+397,Mystery Gift (Platinum),D major,0.8568381791613819,4/4,"['Marimba', 'Marimba', None, None, 'StringInstrument', 'StringInstrument', None, 'Acoustic Bass', None]",26.65969556249987
+398,Mystery Gift,e minor,0.8398634446193785,4/4,"[None, 'Vibraphone', None, 'Harp', None, 'Fretless Bass', None]",14.017843125000013
+399,Natural Disaster,C major,0.5835814526844922,4/4,"[None, 'Trumpet', 'Horn', 'StringInstrument', 'StringInstrument', 'Timpani', None, 'Timpani']",35.982827
+400,Old Chateau,e minor,0.5365543627770252,4/4,"['Timpani', None, None, None, None, 'Timpani', 'StringInstrument', 'Shakuhachi', None]",102.11881474999716
+401,Opening,A major,0.8785295294507351,4/4,"['StringInstrument', 'StringInstrument', 'StringInstrument', 'Acoustic Bass', 'StringInstrument', 'StringInstrument', 'Harp', 'Trumpet', None]",70.98750000000067
+402,Oreburgh City (Night),C major,0.728395145003332,4/4,"['Guitar', 'Guitar', 'Guitar', 'Guitar', 'Dulcimer', 'Dulcimer', None, None]",42.33821412499975
+403,Oreburgh City,C major,0.7046183564868058,4/4,"['Guitar', 'Guitar', 'Guitar', 'Guitar', None, None, None, None]",42.33821412499975
+404,Oreburgh Gate,B major,0.6444833241085407,4/4,"[None, 'Trumpet', None, 'StringInstrument', 'StringInstrument', 'Oboe', 'Guitar', 'Timpani', 'StringInstrument']",80.12617756249811
+405,Oreburgh Mine,A- major,0.6694604851588617,4/4,"[None, 'Flute', 'Saxophone', 'Flute', 'Glockenspiel', 'Glockenspiel', 'Glockenspiel', None, None, None, 'Glockenspiel']",89.98046875
+406,Pokemart,C# major,0.8896466857927099,4/4,"[None, None, 'Guitar', 'Guitar', None, None, None, 'Soprano Saxophone', None]",46.3494194583337
+407,Pokemon Caught,E major,0.82023577852951,4/4,"['Horn', 'Trumpet', 'StringInstrument', 'Fretless Bass', 'StringInstrument', None, None, None]",3.28125
+408,Pokemon Center (Night),C major,0.7348562094357531,4/4,"['Trumpet', 'Guitar', 'Acoustic Bass', 'Guitar', 'Guitar', None, None]",82.39904345833308
+409,Pokemon Center,E major,0.7824612287446026,4/4,"[None, None, 'Electric Bass', None, None, None, None]",41.36850414583355
+410,Pokemon Evolved,A- major,0.778036900442781,4/4,"['Trumpet', 'Trumpet', None, 'Marimba', 'Trumpet', 'Timpani', 'StringInstrument', 'StringInstrument', None]",4.01666666666666
+411,Pokemon Gym,A- major,0.8353947762521383,4/4,"['Horn', 'StringInstrument', 'Trumpet', 'Trumpet', 'StringInstrument', 'StringInstrument', 'Timpani', 'Tuba', None]",57.9895833333331
+412,Pokemon League (Night),E major,0.7894218024946933,4/4,"[None, None, None, None, None, None, 'StringInstrument', None, None]",79.30756166666694
+413,Pokemon League,C major,0.7944621565405955,4/4,"['StringInstrument', None, None, None, None, None, None, None, None]",79.30756166666694
+414,Poketch Fanfare,F major,0.6928644632255901,4/4,"[None, None, None, 'Xylophone', 'Guitar', 'Guitar', None]",2.5973022291666643
+415,Poketch,E- major,0.6879556223995721,4/4,"[None, None, 'Recorder', None, None, None]",1.8701171875
+416,Professor Rowan,G major,0.8876627453859771,4/4,"['StringInstrument', 'StringInstrument', 'StringInstrument', 'Acoustic Bass', 'StringInstrument', 'StringInstrument', 'Harp', 'Trumpet', None]",70.98750000000067
+417,Resort Area,B major,0.7983598573883843,4/4,"['Flute', 'Flute', 'Guitar', 'Guitar', 'Guitar', None, 'Acoustic Bass', None]",54.98958333333335
+418,Route 201 (Night),F major,0.7872502115477067,4/4,"['Whistle', 'StringInstrument', 'Flute', 'StringInstrument', 'StringInstrument', 'Harp']",29.98958333333335
+419,Route 201,C major,0.7850909126567034,4/4,"['Whistle', 'StringInstrument', 'Flute', 'StringInstrument', 'StringInstrument', 'Whistle', 'Vibraphone', None]",29.989583333333428
+420,Route 203 (Night),G major,0.6213035574103529,4/4,"['Saxophone', 'Dulcimer', 'StringInstrument', 'Guitar', 'Guitar', 'Soprano Saxophone', 'Oboe', None]",90.927734375
+421,Route 203,B- major,0.6168577631071872,4/4,"['Saxophone', 'Dulcimer', 'StringInstrument', 'Guitar', 'Guitar', 'Soprano Saxophone', 'Oboe', None]",90.927734375
+422,Route 205 (Night),G major,0.843486166774921,4/4,"['Clarinet', 'StringInstrument', 'Trumpet', 'StringInstrument', 'StringInstrument', 'StringInstrument', None]",47.9875000000004
+423,Route 205,G major,0.8514911090989421,4/4,"['Clarinet', 'Clarinet', 'Trumpet', 'StringInstrument', 'StringInstrument', 'StringInstrument', 'Glockenspiel', 'StringInstrument', None]",47.987500000000466
+424,Route 206 (Night),E major,0.8616864107231041,4/4,"['Horn', 'StringInstrument', 'Marimba', 'Vibraphone', 'StringInstrument', 'Horn', 'StringInstrument']",42.56414299999976
+425,Route 206,E major,0.7972856773102551,4/4,"['Horn', 'StringInstrument', 'Marimba', 'Vibraphone', 'StringInstrument', 'Horn', 'StringInstrument', 'Timpani', None]",42.56414299999976
+426,Route 209 (Night),A- major,0.705069569590826,4/4,"['Oboe', 'Oboe', 'Saxophone', 'StringInstrument', 'Harp', 'Church Bells', 'Harp', 'StringInstrument', None]",75.33425712500012
+427,Route 209,A major,0.7596080111951937,4/4,"['Trombone', 'Trombone', 'Harp', 'Trombone', 'Harp', 'Church Bells', 'Harp', 'StringInstrument', None]",75.33425712500012
+428,Route 210 (Night),B major,0.794328953860345,4/4,"['Dulcimer', 'Horn', 'Horn', None, 'Horn', 'Church Bells', 'StringInstrument', 'Timpani', None]",73.46404427083361
+429,Route 210,C# major,0.805847201764778,4/4,"['Dulcimer', 'Horn', 'Horn', None, 'Horn', 'Church Bells', 'StringInstrument', 'Timpani', None]",71.0552876041671
+430,Route 216 (Night),E major,0.8174013730136099,4/4,"['Accordion', 'StringInstrument', 'StringInstrument', 'Soprano Saxophone', 'StringInstrument', 'StringInstrument', 'Organ', 'Church Bells', 'Harpsichord', 'Harpsichord']",109.56523200000217
+431,Route 216,G major,0.7428107284991546,4/4,"['Accordion', 'StringInstrument', 'StringInstrument', 'Soprano Saxophone', 'StringInstrument', 'StringInstrument', 'Organ', 'Church Bells', 'Harpsichord', 'Harpsichord']",107.23406400000265
+432,Route 228 (Night),f minor,0.6501185961722175,4/4,"[None, None, 'Dulcimer', 'Dulcimer', 'Dulcimer', None, 'Soprano Saxophone', None]",48.11197916666711
+433,Route 228,f minor,0.6491245330126962,4/4,"[None, 'Dulcimer', 'Dulcimer', 'Dulcimer', 'Trumpet', 'Trumpet', 'Soprano Saxophone', None]",48.11197916666736
+434,Rowan's Lab,A major,0.8879741237395641,4/4,"['StringInstrument', None, None, 'Acoustic Bass', 'StringInstrument', 'Harp', None]",70.9875000000005
+435,RSE Title (Test),b- minor,0.6960178555472426,4/4,"['Church Bells', 'Harp', 'Tuba', 'Horn', 'Timpani', 'StringInstrument', None, None, 'Piano', 'Harpsichord']",100.18416799999888
+436,Sandgem Town (Night),A- major,0.7779344246925448,4/4,"['Marimba', None, 'Clarinet', 'Clarinet', 'Marimba', 'Flute', 'StringInstrument', None, None]",57.84595129166747
+437,Sandgem Town,E major,0.7311703517017991,4/4,"['Marimba', None, 'StringInstrument', 'StringInstrument', 'Marimba', 'Organ', 'StringInstrument', 'Fretless Bass', None]",55.85125214583411
+438,Search for Red Gyarados End,B major,0.4223460181944064,4/4,"['StringInstrument', 'StringInstrument', 'Trumpet', None, None, 'StringInstrument', 'StringInstrument', 'Timpani']",3.825189500000002
+439,Search for Red Gyarados,b minor,0.5603043963032832,4/4,"['Trumpet', 'StringInstrument', 'Trumpet', None, None, 'Horn', 'StringInstrument', 'Timpani', None]",14.652261499999936
+440,SEQ_ACCE,F major,0.7705463182078212,4/4,"[None, None, 'Harp', None, 'Vibraphone', 'Harp', 'Acoustic Bass']",2.43518275
+441,SEQ_BLD_CON,b- minor,0.8036405986967162,4/4,"['Recorder', 'Recorder', None, None, 'Vibraphone', None, None]",27.989583333333332
+442,SEQ_CO_KAWAI,C major,0.573549201860804,4/4,"['Marimba', 'Marimba', 'Vibraphone', 'Vibraphone', 'Horn', 'Horn', None, None, 'Acoustic Bass']",79.94791666666667
+443,SEQ_CO_KEKKA,D major,0.9255140681295684,4/4,"['Vibraphone', 'Vibraphone', 'Guitar', 'Guitar', 'Recorder', 'Acoustic Bass', None]",14.562485437499998
+444,SEQ_CO_TAKUMA,G major,0.7072575023679467,4/4,"['StringInstrument', 'Reed Organ', 'StringInstrument', None, 'Reed Organ', 'Dulcimer', 'Electric Organ', None, None]",79.86458333333333
+445,SEQ_GONIN,C major,0.681471674136556,4/4,"[None, None, 'Glockenspiel', 'Vibraphone', None, 'Acoustic Bass']",2.9131380208333333
+446,SEQ_HATANIGE,f# minor,0.5735330395948417,4/4,"['Flute', 'Violin', None, 'Marimba', 'Clavichord', 'Guitar', 'Trumpet', 'Trumpet', None]",50.46956372916709
+447,SEQ_KINOMI1,C major,0.683061722513842,4/4,"['Flute', 'Guitar', 'Guitar', 'Guitar', 'Guitar', 'Violoncello', 'Electric Bass', None]",29.98578745833368
+448,SEQ_KINOMI2,C major,0.683061722513842,4/4,"['Flute', 'Guitar', 'Guitar', 'Guitar', 'Guitar', 'Violoncello', 'Electric Bass', None]",29.98578745833368
+449,SEQ_KUSAGASA,F# major,0.656620937064981,4/4,"['Vibraphone', 'Vibraphone', 'Vibraphone', 'Vibraphone', None, 'Acoustic Bass', 'Violin', None]",18.038622395833325
+450,SEQ_PL_GURUGURU,g# minor,0.6003661442111398,4/4,"[None, None, 'Marimba', None, 'Timpani', 'Acoustic Bass', None]",18.901496250000093
+451,SEQ_PL_MTKAKKO,E- major,0.5565586646324284,4/4,"[None, None, None, 'Saxophone', 'Acoustic Bass', None, 'Harpsichord']",71.68750000000114
+452,SEQ_PL_MTKASHI,B- major,0.8700056079305938,4/4,"['Clarinet', 'Flute', 'Glockenspiel', 'StringInstrument', 'Church Bells', 'StringInstrument', 'StringInstrument', None]",72.37682156250025
+453,SEQ_PL_MTKAWA,A- major,0.9077272050153548,4/4,"['Recorder', 'Reed Organ', 'Reed Organ', 'Reed Organ', 'Reed Organ', None, None, None, 'Harpsichord']",63.091666666665866
+454,SEQ_PL_MTTAKMA,d minor,0.6472996834573975,4/4,"['Violin', 'Violin', 'Accordion', 'Accordion', 'Accordion', 'Accordion', 'Harp', 'Church Bells', 'StringInstrument', None]",68.56243143750021
+455,SEQ_PL_MTUTSUK,D major,0.8524134790990614,4/4,"['Harp', None, 'StringInstrument', 'StringInstrument', 'StringInstrument', 'Church Bells', 'StringInstrument', 'StringInstrument', None]",119.97916666666669
+456,SEQ_PL_TOWN02,G major,0.791631016662208,4/4,"['Banjo', 'Banjo', 'Banjo', 'Banjo', 'Banjo', 'Banjo']",39.16610750000002
+457,SEQ_PL_WIFIGAME,C# major,0.6839086669658683,4/4,"['StringInstrument', 'Recorder', 'Recorder', 'Horn', 'Marimba', 'StringInstrument', 'StringInstrument', None]",22.659699562499835
+458,SEQ_PL_WIFITOWER,A major,0.8937202070136167,4/4,"['Reed Organ', 'Reed Organ', 'Reed Organ', 'Reed Organ', 'Reed Organ', None, 'Voice', 'Acoustic Bass', 'Baritone Saxophone', 'Harpsichord']",77.9921875
+459,SEQ_REPORT,F major,0.8921792103968705,4/4,"[None, None, None, None, None]",1.2857129999999999
+460,SEQ_SLOT,a minor,0.7080445625277606,4/4,"[None, None, None, None, None, None, None]",11.73233852083334
+461,SEQ_SLOT_ATARI,b- minor,0.7424616664951094,4/4,"['Violoncello', 'Violoncello', None, None, 'Violoncello', None, None]",14.9921875
+462,SEQ_SLOT_OOATARI,E major,0.6365007892668445,4/4,"[None, 'Violoncello', None, None, 'Violoncello', None, None]",11.993043562499905
+463,SEQ_TANKOU,b minor,0.7428433100337277,4/4,"['StringInstrument', 'Trumpet', 'Glockenspiel', None, 'Clarinet', 'Xylophone', 'Timpani', 'Clarinet', None]",77.48958333333391
+464,SEQ_THE_EVENT02,C major,0.623297523564743,4/4,"['Tuba', 'Horn', 'Horn', None, 'Horn', 'Timpani', 'Timpani', None, 'Timpani']",33.45812710416664
+465,SEQ_WASURE,A major,0.5806151516103906,4/4,"['Xylophone', 'Xylophone', 'Xylophone', 'Xylophone', None, None]",1.9500000000000004
+466,Snowpoint City (Night),E major,0.8175421959894787,4/4,"['Harp', 'Harp', 'Harp', 'Harp', 'Harp', 'Harp', 'Glockenspiel']",109.69055845833228
+467,Snowpoint City,E major,0.8397862998015734,4/4,"['Harp', 'Harp', 'Harp', 'Harp', 'Harp', 'Harp', 'Glockenspiel', None]",109.69055845833228
+468,Solaceon Town (Night),c# minor,0.7758882700352897,4/4,"[None, None, None, 'Acoustic Bass', None, 'Glockenspiel', 'Oboe', None, 'StringInstrument', 'Harpsichord']",54.66774520833333
+469,Solaceon Town,d minor,0.9075030476441144,4/4,"[None, None, None, 'Acoustic Bass', None, 'Glockenspiel', 'Oboe', None, 'StringInstrument', 'Harpsichord']",51.41371104166691
+470,Spear Pillar,F major,0.590292577191545,4/4,"[None, None, 'Church Bells', 'StringInstrument', 'StringInstrument', 'StringInstrument', 'Timpani', 'StringInstrument', 'StringInstrument']",43.43746814583358
+471,Stark Mountain,c minor,0.5058139205489125,4/4,"['Contrabass', None, None, None, 'Marimba', None, None, None]",68.8586784375001
+472,Sunyshore City (Night),a minor,0.8640011138684754,4/4,"['Dulcimer', 'StringInstrument', 'StringInstrument', 'Soprano Saxophone', 'StringInstrument', 'Organ', 'Horn', None, None]",90.224609375
+473,Sunyshore City,A major,0.8540389659129924,4/4,"['Dulcimer', 'StringInstrument', 'StringInstrument', 'Soprano Saxophone', 'StringInstrument', 'Organ', 'Horn', None, None]",86.18466414583513
+474,Surfing,A major,0.9427892372398592,4/4,"['StringInstrument', 'Harp', 'Glockenspiel', 'Glockenspiel', 'Acoustic Bass', 'Acoustic Bass', 'Harp', 'Harp', None]",85.05632450000031
+475,Survival Area (Night),D major,0.8180958251601814,4/4,"['Dulcimer', 'Dulcimer', 'Dulcimer', 'Soprano Saxophone', 'Reed Organ', 'Reed Organ', None, None, None]",76.5127500208354
+476,Survival Area,C major,0.7188523607479771,4/4,"['Dulcimer', 'Dulcimer', 'Dulcimer', 'Soprano Saxophone', 'Reed Organ', 'Reed Organ', None, None, None]",74.88476674999885
+477,Team Galactic Building,g# minor,0.7589847029226439,4/4,"[None, None, None, 'Acoustic Bass', None, 'Organ', 'Organ', None, None, None]",31.989583333333535
+478,Team Galactic Hideout,E- major,0.7149500865582394,4/4,"['StringInstrument', 'StringInstrument', 'StringInstrument', None, 'StringInstrument', 'StringInstrument', 'StringInstrument', 'Glockenspiel', None]",55.6834949999993
+479,Title 2,F major,0.4184433050185553,4/4,"['Vibraphone', 'StringInstrument', 'Vibraphone', 'Vibraphone', 'StringInstrument', 'Piano', 'Harp']",15.30585412499998
+480,Title,d minor,0.7931380567514683,4/4,"['Trombone', 'Glockenspiel', 'Flute', 'Glockenspiel', 'StringInstrument', 'StringInstrument', 'Violin', 'Flute', 'Timpani', None, 'Harp']",104.08547462499773
+481,TM,G major,0.6633411880698359,4/4,"['Flute', 'Flute', None, 'Oboe', 'Clarinet', 'Fretless Bass', None]",2.7767829374999984
+482,Trading,G major,0.6960545516704492,4/4,"['Horn', 'Horn', 'Tuba', 'Timpani', None, None, None]",32.00000000000008
+483,Twinleaf Town (Night),C major,0.781994949848517,4/4,"['Clarinet', 'Acoustic Bass', 'Marimba', 'StringInstrument', None, 'Clarinet', 'Marimba', None]",74.984375
+484,Twinleaf Town,C major,0.7873877248836121,4/4,"['Clarinet', 'Acoustic Bass', 'Marimba', 'StringInstrument', None, 'Clarinet', 'StringInstrument', None]",74.984375
+485,Union Room,A- major,0.7979335888324195,4/4,"['Trumpet', 'Trumpet', 'Church Bells', 'Horn', 'Horn', 'Horn', 'Recorder', 'StringInstrument', None]",79.36024547916563
+486,Valor Lakefront (Night),D major,0.8168389328798843,4/4,"['Guitar', 'Guitar', 'Guitar', 'Guitar', 'Guitar', 'Accordion', 'Acoustic Bass']",83.97220122916711
+487,Valor Lakefront,D major,0.8294388166880428,4/4,"['Guitar', 'Guitar', 'Guitar', 'Guitar', 'Guitar', 'Harp', 'Acoustic Bass']",83.97220122916706
+488,Veilstone City (Night),d minor,0.674714061286563,4/4,"[None, None, None, 'Acoustic Bass', None, 'Trumpet', 'Saxophone', 'Vibraphone', 'Harpsichord']",90.75863322916763
+489,Veilstone City,A major,0.6821924442002524,4/4,"[None, None, None, 'Acoustic Bass', None, 'Trumpet', 'Saxophone', 'Vibraphone', 'Harpsichord']",89.23324979166568
+490,Victory (Contest),a minor,0.6482019689366502,4/4,"['Trumpet', 'Trumpet', 'Horn', 'Church Bells', 'Trumpet', 'Horn', 'Timpani', 'StringInstrument', None]",14.32902883333345
+491,Victory (Cynthia),A major,0.795558305105723,4/4,"['Trumpet', 'Trumpet', 'Horn', 'Timpani', 'Flute', 'StringInstrument', 'StringInstrument', 'StringInstrument', None]",34.5830875
+492,Victory (Elite Four),A major,0.7575369982838205,4/4,"['Horn', 'Horn', 'Horn', 'Flute', 'StringInstrument', 'StringInstrument', 'Timpani', 'StringInstrument', None]",13.528833124999979
+493,Victory (Frontier Brain),C# major,0.680301813409596,4/4,"['Horn', 'Horn', 'Trumpet', 'StringInstrument', 'StringInstrument', 'Church Bells', 'Timpani', 'StringInstrument', None]",15.522051062500026
+494,Victory (Gym Leader),D major,0.8920035576309547,4/4,"['Trumpet', 'Tuba', 'Flute', 'Horn', 'StringInstrument', 'Horn', 'Marimba', 'StringInstrument', None]",43.4921875
+495,Victory (Team Galactic),G major,0.8139092517346507,4/4,"['Trumpet', 'Trumpet', 'Timpani', 'Marimba', 'StringInstrument', 'StringInstrument', 'Accordion', 'StringInstrument', None]",12.913448624999992
+496,Victory (Trainer),E- major,0.7192841255321994,4/4,"['Acoustic Bass', None, 'Flute', 'Flute', 'StringInstrument', 'Flute', 'Flute', 'Vibraphone', 'StringInstrument']",14.202308312499978
+497,Victory (Wild),a minor,0.7038632377070403,4/4,"['Horn', 'StringInstrument', None, 'StringInstrument', 'Horn', None, None]",11.732338520833354
+498,Victory Road,D major,0.4674899743644243,4/4,"[None, None, None, None, 'StringInstrument', 'StringInstrument', None, 'Horn', None]",29.990234375
+499,Watching TV,C major,0.9247593057798514,4/4,"['StringInstrument', 'Voice', 'StringInstrument', 'Soprano Saxophone', 'Violoncello', 'StringInstrument', 'StringInstrument', 'Whistle', None]",51.937975729166794
+500,Wifi Lobby,E major,0.8212753265239632,4/4,"[None, None, None, 'Harp', 'Fretless Bass', None]",14.017843125000013
+501,Wifi Parade,B- major,0.6528068861346549,4/4,"['Horn', 'Horn', 'Horn', 'Horn', 'Horn', 'Trumpet', 'Acoustic Bass', None]",55.1171875
+502,Back to the Kanto Region!,g minor,0.7093445937791039,4/4,['Piano'],11.994645666666628
+503,Battle! Deoxys,c# minor,0.3400322612109574,4/4,['Electric Bass'],81.44118141666758
+504,Battle! Gym Leader,C major,0.741317400613511,4/4,['StringInstrument'],56.774079999999785
+505,Battle! Legendary Pokemon,A- major,0.7168102528337951,4/4,['StringInstrument'],44.83511999999999
+506,Battle! Rival Champion,f# minor,0.6030897240396431,4/4,['Guitar'],73.9534440000006
+507,Bicycle Ride,F major,0.8108980426982055,4/4,['Accordion'],34.25371650000014
+508,Celadon City,G major,0.8886661781200608,4/4,['StringInstrument'],39.27268800000031
+509,Cerulean City,F major,0.9382940699378943,4/4,['Accordion'],34.0
+510,Cinnibar Island,G major,0.9027449307804211,4/4,['StringInstrument'],36.0
+511,Encounter! Deoxys,c# minor,0.41320275671623125,4/4,['Church Bells'],15.0
+512,Encounter! Females,C major,0.8344702660512866,4/4,['StringInstrument'],6.724126499999996
+513,Encounter! Green [No Intro],g minor,0.7969938148348694,4/4,['Piano'],18.571384000000027
+514,Encounter! Green,g minor,0.7990749617493735,4/4,['Piano'],19.999952000000036
+515,Encounter! Males,b minor,0.6063524790235577,4/4,['Piano'],9.350640000000002
+516,Encounter! Professor Oak,F major,0.8658949233143135,4/4,['Church Bells'],25.5
+517,Encounter! Team Rocket,b- minor,0.41401779591160254,4/4,['Guitar'],8.63011800000001
+518,Epilouge,C major,0.9244750107686419,4/4,['Guitar'],53.33331200000004
+519,Game Corner,F major,0.8754263568159231,4/4,['Trumpet'],43.15058999999982
+520,Hall of Fame,C major,0.7795161778451273,4/4,['Guitar'],28.420991999999845
+521,Lavender Town,C major,0.6436077871427108,4/4,['Guitar'],82.5
+522,Mt. Moon,g# minor,0.45101064303829075,4/4,['StringInstrument'],92.09356850000066
+523,Multiplayer Game,F# major,0.831824725910728,4/4,['Trumpet'],42.567524999999925
+524,Mystery Gift,a minor,0.7556982075970968,4/4,['Guitar'],17.41932
+525,Oak's Lab,G major,0.8434214738579636,4/4,['StringInstrument'],17.0
+526,Pallet Town,A major,0.9249626247162738,4/4,['Guitar'],43.63635200000008
+527,Pewter City,F major,0.8553292757109586,4/4,['Guitar'],61.428509999999825
+528,Pokemon Center,F major,0.9646082217795744,4/4,['Electric Bass'],33.103424000000224
+529,Pokemon Evolving,a minor,0.717966378014091,4/4,['Horn'],32.0
+530,Pokemon Gym,A major,0.7526776084504905,4/4,['Trumpet'],33.75
+531,Pokemon Jump,F# major,0.8321003241290513,4/4,['Guitar'],45.65210999999954
+532,Pokemon Mansion,C major,0.44353487099502764,4/4,['Xylophone'],65.4544799999998
+533,Pokemon Net Center,G major,0.9646082217795744,4/4,['Electric Bass'],33.68416000000015
+534,Pokemon Printer,c minor,0.0,4/4,[None],1.25
+535,Pokemon Tower,b- minor,0.6541738884278725,4/4,['Piano'],59.10445200000053
+536,Road to Cerulean City,C major,0.862402296653193,4/4,['Timpani'],36.04831500000013
+537,Road to Fuschia City,F major,0.8929493459355057,4/4,['StringInstrument'],34.83864000000009
+538,Road to Viridian City,D major,0.6792441864003531,4/4,['Piano'],25.086188500000183
+539,Sevii Island 6 & 7,B- major,0.8077079772902978,4/4,['Guitar'],43.44824400000035
+540,Sevii Island Route,G major,0.8247043135798651,4/4,['Horn'],37.25799000000019
+541,Sevii Islands 4 & 5,A major,0.8161354387905833,4/4,['Guitar'],52.25000000000004
+542,Silph Co.,C major,0.5761012335607638,4/4,['Fretless Bass'],59.11359787500081
+543,Team Rocket HQ,a minor,0.5054906716937675,4/4,['StringInstrument'],73.84608000000019
+544,Tense Competiton!,b minor,0.6151773354205102,4/4,['StringInstrument'],8.780472000000014
+545,The S.S. Anne,A- major,0.8745574154755479,4/4,['StringInstrument'],71.5788400000006
+546,The Sea,A major,0.8304628099378552,4/4,['Flute'],32.399999999999906
+547,The World of Pokemon!,E major,0.9176202290643165,4/4,['Horn'],20.847434000000067
+548,Title Screen,C major,0.9074122449532522,4/4,['Horn'],44.999954999999915
+549,Union Room,G major,0.8589169331137444,4/4,['Guitar'],47.01490500000036
+550,Vermillion City,D major,0.8372850765647238,4/4,['StringInstrument'],37.241352000000134
+551,Victory Road,D major,0.6358480487745132,4/4,['Timpani'],32.205848000000195
+552,Victory! Gym Leader,E- major,0.7854767588186534,4/4,['Trumpet'],48.013520000000106
+553,Victory! Trainer,G major,0.730771811164913,4/4,['Fretless Bass'],16.17645333333329
+554,Victory! Wild Pokemon [No Intro],a minor,0.6649169134332242,4/4,['Flute'],13.92855750000004
+555,Victory! Wild Pokemon,a minor,0.6147188471846058,4/4,['Flute'],15.589270125000054
+556,Viridian Forest,C major,0.5157061468223517,4/4,['Xylophone'],105.234375
+557,A New Adventure Begins!,B- major,0.5414517518415934,4/4,"[None, None, None, None, 'Acoustic Bass', None, None, None]",25.529682291666678
+558,Azalea Town,C# major,0.8778459779877588,4/4,"[None, None, 'Fretless Bass', None, 'Church Bells', 'Vibraphone', 'Acoustic Bass', None, None, 'Reed Organ', None, 'Fretless Bass']",68.37499999999952
+559,Battle Arcade,E major,0.6440534092308124,4/4,"['Vibraphone', 'Xylophone', 'Vibraphone', 'Xylophone', 'Xylophone', 'Soprano Saxophone', None]",89.27185762499995
+560,Battle Castle,F# major,0.882521366759605,4/4,"['Fretless Bass', 'Fretless Bass', 'Electric Guitar', 'Acoustic Bass', 'Celesta', 'Celesta', None, None]",126.78158262500008
+561,Battle Factory,B- major,0.7295336234016938,4/4,"['Fretless Bass', 'Tenor Saxophone', 'Piano', 'Accordion', None]",82.48697916666676
+562,Battle Hall,A major,0.6950908374948489,4/4,"['Harmonica', 'Piano', 'Piano', 'Piano', None, 'Harmonica', 'Piano', 'Organ', None]",86.54708210416793
+563,Battle Tower (Johto),B- major,0.8480798832408377,4/4,"[None, None, None, 'Fretless Bass', None, None, None, None, None, None, 'Acoustic Bass']",71.98958333333327
+564,Battle Tower Reception Desk,E major,0.8620311343396647,4/4,"['Fretless Bass', None, 'Organ', None, None, None, 'Clavichord', 'Harpsichord', 'Fretless Bass', None]",32.37099937499997
+565,Battle! Arceus,C major,0.8385413574643974,4/4,"['Brass', 'Soprano Saxophone', 'Soprano Saxophone', 'Saxophone', None, None, None, 'Horn', None]",79.99166666666642
+566,Battle! Champion,B major,0.6863689185423402,4/4,"[None, None, 'Harmonica', None, None, None, 'Soprano Saxophone', 'Acoustic Bass', 'Brass', 'Acoustic Bass', 'Electric Organ', None, 'Voice']",67.81250904166724
+567,Battle! Entei,a minor,0.8226169052482644,4/4,"[None, 'Piano', 'Harmonica', None, 'Electric Guitar', None, None, 'Harp', None, None, 'Vibraphone', 'Acoustic Bass', 'Harp', 'Acoustic Bass']",84.22166768750095
+568,Battle! Frontier Brain,a minor,0.78024099850003,4/4,"['Soprano Saxophone', 'Brass', 'Brass', 'Brass', 'Brass', 'Brass', 'Brass', 'Soprano Saxophone', 'Organ', None]",93.46696506249951
+569,Battle! Gym Leader,E- major,0.6406233494522784,4/4,"[None, None, 'Harmonica', 'Clavichord', None, None, None, None, None, None, None, 'Piano', None, None]",76.15733824999843
+570,Battle! Ho-Oh,a minor,0.9083654358368235,4/4,"['Vibraphone', 'Electric Bass', 'Vibraphone', 'Harmonica', 'Brass', 'Vibraphone', 'Vibraphone', 'Vibraphone', 'Celesta', None, 'Oboe', 'Violoncello', 'Baritone Saxophone', 'Baritone Saxophone']",85.52890054166491
+571,Battle! Hoenn Legendary,c minor,0.566957700014544,4/4,"[None, None, 'Harmonica', 'Acoustic Bass', 'Celesta', 'Brass', 'Fretless Bass', None, None, 'Celesta', None, None]",49.19317775000006
+572,Battle! Kanto Gym Leader,g# minor,0.873253067072782,4/4,"['Piano', 'Harmonica', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Horn', None, 'Electric Bass', None, None, None]",68.74993124999911
+573,Battle! Kanto Trainer,a minor,0.7838828906457156,4/4,"[None, 'Electric Organ', 'Electric Guitar', 'Electric Organ', 'Acoustic Bass', 'Acoustic Bass', 'Acoustic Bass', 'Soprano Saxophone', None, None]",92.78337456250071
+574,Battle! Lugia,b minor,0.7330176922997522,4/4,"['Clavichord', 'Electric Bass', 'Glockenspiel', 'Organ', None, 'Fretless Bass', 'Electric Guitar', 'Brass', None, None, 'Timpani', 'Fretless Bass']",71.16357806250136
+575,Battle! Raikou,a minor,0.8800541253797297,4/4,"[None, 'Piano', 'Reed Organ', None, None, 'Harp', None, None, None, 'Harp', 'Vibraphone', 'Acoustic Bass', None, 'Vibraphone']",104.82879012499873
+576,Battle! Rival,g# minor,0.8981408898571203,4/4,"['Piano', 'Electric Guitar', 'Electric Organ', 'Accordion', 'Piano', 'Brass', 'Piano', 'Horn', None, None, 'Celesta']",69.19204891666749
+577,Battle! Suicune,a minor,0.9049478533936027,4/4,"[None, None, 'Harmonica', 'Piano', 'Celesta', 'Harp', 'Horn', 'Horn', None, 'Brass', 'Brass', None, 'Piano', 'Harp']",104.84194799999611
+578,Battle! Team Rocket Grunt,d minor,0.6305099651604578,4/4,"[None, None, 'Harmonica', None, None, 'Acoustic Bass', None, None, None, None, None, None, 'Acoustic Bass']",68.51127424999932
+579,Battle! Trainer,E- major,0.84587697699305,4/4,"['Acoustic Bass', 'Fretless Bass', 'Fretless Bass', 'Harmonica', 'Guitar', 'Harpsichord', 'Acoustic Bass', 'Brass', 'Electric Bass', None, 'Horn']",124.71417006249536
+580,Battle! Wild Kanto Pokemon,f minor,0.4342914219832154,4/4,"[None, None, None, 'Harmonica', 'Acoustic Bass', None, 'Horn', 'Horn', None, None, 'Clavichord', None, None, None]",64.93379106250089
+581,Battle! Wild Pokemon,G major,0.781746648793556,4/4,"['Fretless Bass', None, 'Harmonica', 'Clavichord', 'Clavichord', None, 'Brass', None, 'Fretless Bass', None, 'Glockenspiel']",52.452209395832874
+582,Bell Tower,f minor,0.6443958346948523,4/4,"['Violoncello', 'Brass', None, None, 'Fretless Bass', 'Violoncello', 'Brass', 'Reed Organ', 'Oboe', None, None, 'Baritone Saxophone', None, 'Violin']",53.29905552083385
+583,Bicycle Ride,e minor,0.7664571446332958,4/4,"['Piano', 'Reed Organ', None, 'Dulcimer', None, 'Vibraphone', None, 'Piano', 'Piano', 'Piano']",38.74104583333278
+584,Burned Tower,d minor,0.6532284903132277,4/4,"['Violoncello', None, None, 'Fretless Bass', 'Fretless Bass', None, 'Violoncello', None, 'Electric Guitar', None, None]",52.761549895832474
+585,Celadon City,G major,0.9163442987339103,4/4,"['Electric Bass', None, 'Clavichord', 'Fretless Bass', None, None, None, None, None, 'Acoustic Bass', 'Glockenspiel', None, 'Electric Bass']",33.211505249999995
+586,Cerulean City,E major,0.9366672309389593,4/4,"['Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano']",34.005909479166746
+587,Cherrygrove City,F major,0.8267332393975684,4/4,"['Harpsichord', 'Piano', 'StringInstrument', 'Organ', None, 'Fretless Bass', 'Fretless Bass', 'Marimba', None]",51.01699166666671
+588,Cianwood City,A- major,0.9348899229425399,4/4,"['Xylophone', 'Xylophone', 'Church Bells', 'Fretless Bass', 'Fretless Bass', 'Fretless Bass', None]",73.62213945833311
+589,Cinnabar Island,G major,0.8832434278831098,4/4,"[None, None, None, None]",41.125006854166564
+590,Clair's Anger,A- major,0.779931562364538,4/4,"['Vibraphone', 'Piano', 'Reed Organ', None, None, None, None, None, None, 'Vibraphone', 'Piano', None]",17.348196937499917
+591,Cleared Wobbuffet Pop,G major,0.7076043543152823,4/4,"['Acoustic Bass', 'Acoustic Bass', 'Acoustic Bass', 'Fretless Bass', None, None, None, None, None]",3.376869937500003
+592,Congrats on Evolving!,F major,0.9239614546105487,4/4,"[None, None, 'Harmonica', 'Harpsichord', None, None, None, None, None]",3.7345641666666713
+593,Dragon's Den,c# minor,0.7916276518329689,4/4,"[None, 'Guitar', None, 'Celesta', 'Glockenspiel', None, 'Harpsichord', 'Acoustic Bass', None, 'Electric Bass', None, 'Fretless Bass', None, 'Electric Bass']",71.99031262500068
+594,Ecruteak City Dance Theater,a minor,0.6602985032964321,4/4,"['Violoncello', 'Fretless Bass', 'Reed Organ', None, 'Brass', None, None, None, 'Fretless Bass', 'Violoncello']",26.38587308333354
+595,Ecruteak City,B major,0.9269139898532525,4/4,"['Piano', 'Brass', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Violin']",79.98515104166685
+596,Encounter! Ethan,B major,0.890833997981781,4/4,"[None, 'Church Bells', 'Organ', None, None, None, 'Acoustic Bass', None, None]",29.287400749999723
+597,Encounter! Eusine,b minor,0.8765204494448773,4/4,"['Fretless Bass', None, 'Reed Organ', None, None, 'Celesta', None, None, None, 'Vibraphone', None, 'Church Bells', 'Fretless Bass']",27.331565749999733
+598,Encounter! Ho-Oh,F major,0.5190458569111418,4/4,"['Violoncello', None, None, None, None, 'Fretless Bass', 'Fretless Bass', 'Violoncello']",19.380343124999943
+599,Encounter! Kanto's Lass,E major,0.9392797399672845,4/4,"['Piano', None, None, 'Electric Bass', 'Fretless Bass', 'Electric Bass', 'Piano', 'Harpsichord', 'Electric Guitar', 'Fretless Bass']",14.991331437500058
+600,Encounter! Kanto's Suspicious Person,b minor,0.5182640092116602,4/4,"['Vibraphone', 'Harmonica', None, 'Vibraphone', None, 'Vibraphone']",21.922408312499908
+601,Encounter! Kanto's Youngster,A major,0.6752784490133855,4/4,"[None, None, 'Reed Organ', None, 'Harpsichord', None, None, None, None, 'Vibraphone', None]",14.53786425000018
+602,Encounter! Kimono Girl,a minor,0.6581308111000311,4/4,"['Fretless Bass', 'Violoncello', None, 'Organ', None, None, 'Fretless Bass', 'Violoncello', None, None]",11.29043333333331
+603,Encounter! Lass,G major,0.8988223261901215,4/4,"['Fretless Bass', 'Reed Organ', None, None, None, 'Fretless Bass', 'Piano', None]",16.099010729166757
+604,Encounter! Lugia,D major,0.6335062894639761,4/4,"[None, None, None, None, None, None, None, None, None, None, None, None]",30.75
+605,Encounter! Lyra,E- major,0.9046495737839755,4/4,"['Fretless Bass', None, 'Organ', None, 'Electric Guitar', None, None, 'Electric Guitar', None, 'Fretless Bass']",29.14721374999975
+606,Encounter! Professor Oak,E major,0.6957495953613564,4/4,"['Fretless Bass', 'Clavichord', 'Organ', None, None, None, 'Harpsichord', 'Fretless Bass', 'Harpsichord', 'Church Bells', None, 'Clavichord', None]",47.750937916666636
+607,Encounter! Rival (2),f minor,0.7066350692912986,4/4,"['Vibraphone', None, None, None, 'Reed Organ', 'Accordion', 'Vibraphone', None, None, 'Vibraphone', None]",22.41069187500009
+608,Encounter! Rival,c minor,0.6399633884437053,4/4,"['Vibraphone', None, None, None, 'Reed Organ', 'Accordion', 'Harmonica', None, None, 'Vibraphone']",27.019203750000006
+609,Encounter! Rocket Grunt,b- minor,0.2982778959412749,4/4,"[None, None, None, 'Accordion', None, None, None, None, None]",13.6796875
+610,Encounter! Sage,a minor,0.7294268804942144,4/4,"['Violoncello', 'Violoncello', 'Fretless Bass', None, None, 'Fretless Bass', 'Reed Organ', 'Fretless Bass']",23.704794812500094
+611,Encounter! Spiky-Eared Pichu,F major,0.9623125594852254,4/4,"['Harpsichord', 'Electric Bass', None, None, None, None, 'Electric Guitar', 'Fretless Bass', None, None, None, 'Fretless Bass']",23.97916666666672
+612,Encounter! Suspicious Person,F major,0.40490173049106515,4/4,"['Piano', 'Piano', 'Acoustic Bass', 'Marimba', 'Acoustic Bass', None, 'Fretless Bass', 'Acoustic Bass', 'Marimba']",24.081415312500123
+613,Encounter! Youngster,c minor,0.6577965482812055,4/4,"['Xylophone', None, 'Harmonica', 'Harpsichord', None, None, None, None, 'Clavichord', None, None]",15.375
+614,Ending Theme,D major,0.8421277372282945,4/4,"['StringInstrument', 'Harpsichord', 'Vibraphone', 'Electric Guitar', 'Electric Guitar', 'Marimba', 'Marimba', None, 'Marimba', None, 'Fretless Bass']",174.38032927083358
+615,Global Terminal,f# minor,0.8601034435599278,4/4,"['Brass', 'Brass', 'Brass', 'Brass', 'Brass', 'Piano', None, 'Organ', 'Harmonica', None]",77.9921875
+616,Global Trade Station,E- major,0.8041067116612246,4/4,"[None, None, 'Acoustic Bass', None, None, 'Fretless Bass', None, None, None, None]",41.989583333333336
+617,Goldenrod City Game Corner,c minor,0.742283534884324,4/4,"['Piano', None, 'Harmonica', None, None, None, None, None, None, None, None, None]",82.37491762499978
+618,Goldenrod City,b- minor,0.8453993120578641,4/4,"[None, 'Reed Organ', 'Electric Guitar', None, None, None, 'Fretless Bass', None, 'Fretless Bass', 'Celesta', 'Celesta']",42.45399883333373
+619,Goldenrod Game Corner (Retire),C# major,0.8240836563881307,4/4,"[None, None, 'Organ', 'Piano', None, None, None]",3.5288426250000025
+620,Hall O' Fame,G major,0.8965988230480053,4/4,"[None, None, 'Harmonica', None, None, None, None, None, None, None, 'Acoustic Bass']",33.87613954166677
+621,Hurry Along! (2),A major,0.6850264113755247,4/4,"['Piano', 'Vibraphone', 'Church Bells', 'Church Bells', 'Piano', 'Organ', None]",37.705319437500144
+622,Hurry Along!,A major,0.5428758182242571,4/4,"['Organ', 'Organ', None, None, None, 'Organ', None]",15.693359375
+623,Ice Path,A- major,0.729903112582209,4/4,"['Electric Bass', 'Electric Bass', 'Harpsichord', 'Harpsichord', None, 'Celesta', 'Marimba', 'Marimba', None]",80.9921875
+624,Kimono Girls,a minor,0.6546872250408616,4/4,"['Violoncello', 'Fretless Bass', 'Reed Organ', None, 'Violoncello', None, None, None, 'Fretless Bass', 'Violoncello']",26.385873083333497
+625,Lavender Town,C major,0.9547169296175492,4/4,"['Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano']",60.22916666666683
+626,Magnet Train,g minor,0.8827546163613543,4/4,"[None, None, 'StringInstrument', None, None, None, 'Harmonica', None]",7.728663999999987
+627,Move Deleted!,A major,0.5778503557663771,4/4,"['Clavichord', 'Clavichord', None, 'Piano', 'Clavichord', 'Clavichord']",1.8750000000000002
+628,Mt. Moon,b minor,0.7419233142647612,4/4,"['Piano', 'Piano', 'Piano', None, None]",11.77940587500001
+629,Mystery Gift,D major,0.6664036122914979,4/4,"['Harpsichord', 'Harpsichord', None, None, None, None, None, 'Organ', None]",26.65969556249987
+630,National Park,C# major,0.8417398797901946,4/4,"['Horn', 'Horn', 'Horn', 'Horn', 'Horn', 'Horn', 'Horn', 'Horn', 'Horn', None, 'Horn', 'Horn']",110.82421016666623
+631,New Bark Town,D major,0.9371396692182015,4/4,"[None, 'Electric Bass', 'Piano', None, 'Acoustic Bass', 'Organ', 'Piano', None, 'Fretless Bass', 'Piano', None, None, 'Electric Bass', None]",59.990234375
+632,Olivine Lighthouse,A- major,0.4464880682667674,4/4,"['Vibraphone', 'Clavichord', 'Piano', 'Harmonica', 'Accordion', 'Celesta', 'Guitar', None]",36.08084149999995
+633,Opening Demo,G major,0.7636315341959659,4/4,"['Celesta', 'Celesta', 'Celesta', 'Celesta', 'Celesta', 'Celesta', 'Acoustic Bass', 'Celesta', 'Celesta', None, 'Celesta', None, 'Fretless Bass', None, 'Fretless Bass', 'Electric Guitar']",66.41181545833322
+634,Pallet Town,G major,0.9675513417880667,4/4,"['Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano']",53.35157504166639
+635,Pewter City,D major,0.8184906244040631,4/4,"['Fretless Bass', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Fretless Bass']",72.68438504166816
+636,Pokeathlon! An Event Begins,B- major,0.5641883787852319,4/4,"[None, None, None, None, None, 'Acoustic Bass', 'Fretless Bass', None]",19.49620052083325
+637,Pokeathlon! Event Time,f# minor,0.2935863889558023,4/4,"[None, None, 'Fretless Bass', None, None, None, 'Acoustic Bass', 'Clavichord', None, None, None, None, 'Acoustic Bass', 'Clavichord']",47.7033418750004
+638,Pokeathlon! Finals,F# major,0.42916409792145854,4/4,"[None, None, 'Accordion', None, None, 'Acoustic Bass', None, None, 'Acoustic Bass', None, None, None, 'Fretless Bass']",66.39166666666554
+639,Pokeathlon! Getting Changed,e- minor,0.7111116833184463,4/4,"[None, None, None, None, None, 'Acoustic Bass', None]",0.8605080208333331
+640,Pokeathlon! In First Place,c minor,0.7375039801595962,4/4,"[None, None, None, None, None, 'Acoustic Bass', 'Fretless Bass', None]",1.6964268749999982
+641,Pokeathlon! In the Pokeathlon Dome,E major,0.8450148421493499,4/4,"[None, None, 'Reed Organ', None, None, 'Acoustic Bass', None]",37.627344916666644
+642,Pokeathlon! Medal Ceremony,D major,0.8318966428407327,4/4,"[None, None, None, None, None, None, 'Fretless Bass', None, 'Acoustic Bass', None, 'Acoustic Bass']",46.78412989583387
+643,Pokeathlon! Opening Ceremony,C major,0.6831802412081551,4/4,"[None, None, 'Accordion', None, 'Acoustic Bass', None, None, None, None, None, None, None]",14.383333333333372
+644,Pokeathlon! Results Announcment,D major,0.8977598958619546,4/4,"[None, None, None, 'Piano', 'Reed Organ', None, 'Piano', 'Piano']",24.0390625
+645,Pokeathlon! Winner!,b- minor,0.8280988991205065,4/4,"[None, None, None, None, None, 'Acoustic Bass', None, None]",13.838800812499963
+646,Pokecenter,D major,0.9787281799597096,4/4,"[None, 'Organ', None, None, 'Electric Guitar', None, None, 'Electric Guitar']",33.67325908333335
+647,Pokedex Evaluation! (Complete!),B- major,0.8092913331686443,4/4,"[None, None, 'Acoustic Bass', 'Fretless Bass', None, None, None, None]",5.727938312500002
+648,Pokedex Evaluation! (Just a Little More!),g minor,0.717782758254641,4/4,"[None, None, 'Acoustic Bass', None, 'Reed Organ', None, None, None]",2.8046875
+649,Pokedex Evaluation! (Keep at It!),e minor,0.8169628720554105,4/4,"[None, None, 'Harmonica', None, 'Electric Guitar', None, None, None]",3.3203125
+650,Pokedex Evaluation! (No Good!),D major,0.616403360843199,4/4,"[None, None, 'Harmonica', 'Clavichord', None, None, 'Electric Bass', None]",2.8916666666666635
+651,Pokedex Evaluation! (Not Bad!),B- major,0.7990341605073277,4/4,"[None, None, 'Acoustic Bass', 'Reed Organ', None, None, None]",2.96875
+652,Pokedex Evaluation! (You're on Your Way!),F major,0.676744792080731,4/4,"['Clavichord', 'Harpsichord', 'Organ', 'Electric Guitar', 'Clavichord', 'Electric Guitar', 'Electric Guitar']",2.4785703958333354
+653,Pokemart,g# minor,0.9014521499880107,4/4,"['Fretless Bass', None, 'Reed Organ', None, 'Church Bells', None, 'Electric Guitar', None, 'Fretless Bass', None, None]",52.34375602083401
+654,Pokemon Evolution,a minor,0.9267684851114939,4/4,"['Glockenspiel', 'Clavichord', 'Reed Organ', None, None, None, 'Harmonica', None, None, 'Clavichord']",31.418619374999437
+655,Pokemon Gym,D major,0.8327550708702592,4/4,"[None, None, None, None, 'Fretless Bass', 'Acoustic Bass', 'Reed Organ', None, None, None, None, None, None, 'Piano']",42.23958333333313
+656,Pokemon League,g minor,0.6835775169588505,4/4,"['Acoustic Bass', 'Acoustic Bass', 'Harpsichord', 'Electric Bass', 'Vibraphone', 'Celesta', 'Celesta', None]",46.7053104375002
+657,Pokewalker,E major,0.8051077289448728,4/4,"[None, 'Fretless Bass', 'Electric Guitar', None, 'Piano', 'Piano', 'Harp', None, 'Fretless Bass']",38.34166666666609
+658,Professor Elm's Lab,F major,0.7960233346089615,4/4,"['Xylophone', 'Harpsichord', 'Xylophone', 'Harmonica', 'Xylophone', 'Celesta', 'Xylophone', 'Vibraphone', 'Xylophone', None]",39.23010777083341
+659,Radio (Buena's Password),g# minor,0.8729141228642625,4/4,"['Piano', 'Piano', 'Harpsichord', None, None, 'Organ', None]",47.31511718749997
+660,Radio (Poke Flute),C major,0.8922763827310018,4/4,"['Fretless Bass', 'Piano', 'Fretless Bass', 'Piano']",31.64652762499999
+661,Radio (Pokemon Channel),G major,0.7187225135544643,4/4,"['Piano', 'Piano', 'Harmonica', None, None, None, 'Piano', None]",7.008333333333364
+662,Radio (Pokemon Lullaby),C major,0.9161076607144761,4/4,"[None, None, None, None, None]",32.787169812500025
+663,Radio (Pokemon March),B- major,0.7018533938730033,4/4,"['Fretless Bass', None, None, 'Acoustic Bass', None, None, None, None]",23.53334043749995
+664,Radio (Prof. Oak's Pokemon Talk),B major,0.8303996751256115,4/4,"[None, None, None, 'Fretless Bass', 'Glockenspiel', None, None, None, 'Acoustic Bass', None, None]",41.25003918749925
+665,Radio (Route 101),D major,0.9077063854039538,4/4,"['Fretless Bass', 'Fretless Bass', 'Reed Organ', 'Electric Bass', None, None, None, None, None, None, 'Electric Guitar', 'Fretless Bass']",33.93641708333317
+666,Radio (Route 201),C major,0.7877337373351713,4/4,"['Fretless Bass', 'Harpsichord', None, 'Piano', None, 'Fretless Bass', 'Fretless Bass', None]",29.989583333333428
+667,Radio (Trainer Channel),D major,0.824735626249335,4/4,"[None, None, None, None, 'Fretless Bass', 'Acoustic Bass', 'Reed Organ', None, None, None, None, None]",42.2395833333332
+668,Radio (Unown),C major,0.5590485197255817,4/4,"['Piano', 'Harmonica', 'Piano']",17.037499999999994
+669,Radio (Variety Channel),C# major,0.7645518977917554,4/4,"[None, 'Reed Organ', 'Electric Guitar', None, None, None]",38.851061500000164
+670,Radio Transmisson,d minor,0.5985066593216957,4/4,"['Piano', 'Harmonica', 'Piano']",2.687499999999998
+671,Recovery,E major,0.7603270880564592,4/4,"[None, None, None, 'Piano', None, None, None, None, 'Piano', None]",2.111740312499999
+672,Registered in the Pokegear!,A- major,0.9005463673711637,4/4,"['Piano', 'Harmonica', None, None, None, None]",2.5411194374999995
+673,Rock Tunnel,B major,0.35341699070106325,4/4,"[None, None, 'Fretless Bass', 'Piano', 'Piano', 'Fretless Bass', 'Piano', 'Acoustic Bass', 'Acoustic Bass', 'Acoustic Bass', 'Acoustic Bass', None]",109.08112891666768
+674,Route 1,D major,0.9349494356199879,4/4,"['Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano']",37.19951427083351
+675,Route 11,E major,0.90372402680633,4/4,"['Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano']",39.36384233333328
+676,Route 24,E major,0.859036592347686,4/4,"['Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano']",34.09199704166638
+677,Route 26,g# minor,0.7852552084739994,4/4,"[None, None, None, None, 'Fretless Bass', 'Acoustic Bass', None, None, None, None, None, None]",34.677734375
+678,Route 29,C major,0.9360898672196332,4/4,"['Harpsichord', 'Piano', 'Piano', 'Organ', 'Piano', 'Harpsichord', 'Electric Guitar', 'Harpsichord', None]",58.2924574166667
+679,Route 3,A major,0.911140839797034,4/4,"['Acoustic Bass', None, 'Electric Bass', 'Fretless Bass', 'Acoustic Bass', None, None, None, None, None, 'Acoustic Bass']",40.72195289583387
+680,Route 30,G major,0.7884954646481821,4/4,"[None, None, None, None, None, None, 'Acoustic Bass', None, None, 'Fretless Bass', None, None, 'Acoustic Bass', 'Piano']",37.646484375
+681,Route 34,d minor,0.7422667426469474,4/4,"[None, None, None, None, 'Fretless Bass', None, 'Clavichord', None, None]",54.235305500000685
+682,Route 38,b minor,0.7257763203558912,4/4,"[None, None, 'Fretless Bass', 'Acoustic Bass', None, None, 'Harmonica', None, None]",53.5287926250003
+683,Route 42,D major,0.7515044226852735,4/4,"['Fretless Bass', None, None, None, 'Acoustic Bass', None, None, 'Fretless Bass', None, None, None, None]",43.421830312500234
+684,Route 47,F major,0.9042161761086737,4/4,"[None, 'Piano', None, None, 'Celesta', 'Acoustic Bass', 'Celesta', None, None]",70.78750000000089
+685,Ruins of Alph,f minor,0.8226681617909095,4/4,"[None, None, None, None, 'Electric Guitar', None, 'Celesta', None, None, None, None, None, None]",39.86762712499992
+686,S.S. Aqua,G major,0.8101832148517781,4/4,"['Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano']",57.791666666666366
+687,Safari Zone Gate,A major,0.8398624697197633,4/4,"['Clavichord', 'Clavichord', None, None, 'Harmonica', None, None]",55.989583333333336
+688,Safari Zone,A- major,0.7242369153662879,4/4,"[None, 'Xylophone', None, 'Xylophone', None, 'Celesta', 'Fretless Bass', 'Organ', None]",63.989583333332774
+689,SEQ_GS_WIN2_NOT_FAN,a minor,0.7165700005921799,4/4,"[None, 'Acoustic Bass', None, 'Fretless Bass', None, None, 'Fretless Bass', None]",12.67270243749996
+690,SEQ_ME_GONIN,C major,0.7508254518957262,4/4,"[None, None, 'Glockenspiel', None, None, 'Organ', None]",2.9555109374999997
+691,Sinjoh Ruins,f minor,0.7321986757480309,4/4,"['Piano', None, None, 'Piano', 'Clavichord', None, 'Fretless Bass', 'Piano', 'Piano', None, 'Piano', 'Piano', 'Piano', 'Piano', 'Piano']",87.177734375
+692,Spin Trade,c# minor,0.607456857807365,4/4,"[None, None, 'Harpsichord', None, None, 'Organ', None, None]",18.901496250000108
+693,Sprout Tower,b- minor,0.7104102622465143,4/4,"['Piano', None, 'Piano', 'Church Bells', 'Brass', 'Fretless Bass', 'Piano', None, 'Electric Bass', None]",55.03443210416717
+694,Surfing,E- major,0.9248972021875078,4/4,"['Fretless Bass', 'Organ', 'Electric Guitar', 'Fretless Bass', 'Fretless Bass', 'Piano', 'Acoustic Bass', 'Fretless Bass', None, None, 'Electric Guitar', 'Acoustic Bass']",71.91490799999964
+695,Team Rocket HQ,b- minor,0.6689309737652838,4/4,"[None, 'Electric Bass', 'Harmonica', None, None, None, None, None, None, None, None]",47.73675402083349
+696,Team Rocket Takeover!,A- major,0.5598847097369544,4/4,"[None, None, None, 'Accordion', None, None, None, None, None]",37.6796875
+697,The Bug Catching Contest 1st Place ,B- major,0.6226232685184259,4/4,"[None, None, None, None, None, None, None, 'Acoustic Bass', None]",3.3928585000000044
+698,The Bug Catching Contest 2nd Place,C major,0.807239393853415,4/4,"[None, None, None, 'Acoustic Bass', None, None, None]",3.10833333333333
+699,The Bug Catching Contest 3rd Place,G major,0.7681629947231925,4/4,"[None, None, 'Acoustic Bass', None, None, None]",1.406250187499998
+700,The Bug Catching Contest Begins,d minor,0.8162506911665863,4/4,"['Fretless Bass', None, None, 'Acoustic Bass', None, None, None, None]",7.208649499999984
+701,The Bug Catching Contest,G major,0.8130694271839775,4/4,"['Fretless Bass', None, None, 'Acoustic Bass', None, None, None, None, 'Fretless Bass']",27.263230312500085
+702,The Dance of Ecruteak,d minor,0.7668637343933332,4/4,"['Violoncello', 'Violoncello', 'Violoncello', 'Reed Organ', None, None, None, 'Violoncello']",25.150657395833356
+703,The End,E- major,0.9317547744150211,4/4,"[None, None, None, None]",29.125004854166576
+704,Title Screen,C major,0.8161777171272873,4/4,"['Electric Bass', None, None, 'Acoustic Bass', None, 'Fretless Bass', 'Fretless Bass', 'Horn', None, None, None, None, None, 'Harmonica', 'Brass', 'Electric Bass']",75.39017149999852
+705,Trading,a minor,0.9246056781871065,4/4,"['Reed Organ', None, None, None, 'Harmonica', None, None]",30.466239374999457
+706,Union Cave,b- minor,0.40079805089068266,4/4,"[None, None, None, None, None, 'Piano', 'Soprano Saxophone']",63.75436227083377
+707,Vermillion City,A major,0.9353277776851672,4/4,"['Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano']",52.27655558333302
+708,Victory Road,a minor,0.6339705766997159,4/4,"[None, None, 'Acoustic Bass', None, None, None, 'Fretless Bass', 'Acoustic Bass', None]",44.288417249999895
+709,Victory! Frontier Brain,C# major,0.680301813409596,4/4,"[None, None, None, None, None, 'Celesta', None, None, None]",15.522051062500026
+710,Victory! Gym Leader,D major,0.7583311044977835,4/4,"['Fretless Bass', None, None, None, None, None, 'Fretless Bass', 'Fretless Bass', None]",37.810568250000664
+711,Victory! Trainer,D major,0.7462704195262135,4/4,"[None, None, None, 'Fretless Bass', None, None, None, 'Fretless Bass']",19.6266815
+712,Victory! Wild Pokemon,a minor,0.7989665225469619,4/4,"[None, None, None, 'Fretless Bass', None, None, 'Fretless Bass', None, 'Acoustic Bass']",14.202308312499984
+713,Violet City,B major,0.8766281214082126,4/4,"['Glockenspiel', None, None, None, None, None, 'Dulcimer', None, 'Acoustic Bass', None, 'Clavichord', 'Harmonica', 'Vibraphone', 'Vibraphone']",64.23658691666736
+714,Viridian Forest,C major,0.9079800575275389,4/4,"['Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano', 'Piano']",64.98958333333275
+715,Voltorb Flip Start,d minor,0.618612862722561,4/4,"[None, None, 'Reed Organ', 'Vibraphone', None, None, None, None]",2.614583333333333
+716,WiFi Connection,C major,0.7819105182779919,4/4,"[None, None, None, 'Organ', None]",14.017843125000008
+717,WiFi Plaza Games,C# major,0.6839086669658683,4/4,"['Fretless Bass', 'Fretless Bass', 'Fretless Bass', 'Acoustic Bass', 'Harpsichord', 'Celesta', None, None]",22.659699562499835
+718,WiFi Plaza Parade,B- major,0.6524516027621138,4/4,"['Acoustic Bass', 'Acoustic Bass', 'Acoustic Bass', 'Acoustic Bass', 'Acoustic Bass', 'Celesta', 'Organ', None]",55.1171875
+719,WiFi Plaza,A- major,0.8057160906083346,4/4,"[None, 'Fretless Bass', 'Celesta', 'Acoustic Bass', None, 'Vibraphone', None]",79.36024547916558
+720,You're a Winner!,c minor,0.7056082077489011,4/4,"[None, None, 'Accordion', None, 'Harp', None, None, None, None]",13.004525875000029
+721,Abandoned Ship,F# major,0.7554989496888715,4/4,['Piano'],39.299999999999784
+722,Art Museum,G major,0.8861259199124709,4/4,['StringInstrument'],89.11755200000054
+723,Battle Arena,c minor,0.85431214093884,4/4,['Koto'],50.7421875
+724,Battle Dome Lobby,c minor,0.8513554449075651,4/4,['Piano'],19.9999680000001
+725,Battle Dome,c minor,0.7716025217384027,4/4,['Piano'],46.6665920000006
+726,Battle Factory,C major,0.7844608190804166,4/4,['Timpani'],64.58323000000192
+727,Battle Frontier,E major,0.8425481527396211,4/4,['Trumpet'],43.52456550000002
+728,Battle Palace,C major,0.6709499693828155,4/4,['Guitar'],88.90624999999991
+729,Battle Pike,a minor,0.5881344389301884,4/4,['Fretless Bass'],53.99999999999976
+730,Battle Pyramid Peak,C major,0.509714498146856,4/4,['Harp'],10.666655999999998
+731,Battle Pyramid,F major,0.4728352300220841,4/4,['Harp'],77.54706900000018
+732,Battle Tower (Emerald),B- major,0.6954645790341042,4/4,['Trumpet'],51.213088
+733,Battle Tower,B- major,0.8833987545462084,4/4,['Trumpet'],39.84375
+734,Battle! Champion,C major,0.6451210926114285,4/4,['Trumpet'],65.6601759999997
+735,Battle! Elite Four,G major,0.6275513434652201,4/4,['Horn'],61.682059999999574
+736,Battle! Frontier Brain,a minor,0.6759335139226151,4/4,['Guitar'],93.63143849999938
+737,Battle! Golem Trio,g minor,0.3023532546238566,4/4,['StringInstrument'],60.0
+738,Battle! Gym Leader,c minor,0.7333765476583433,4/4,['StringInstrument'],75.91825599999981
+739,Battle! Legendary Pokemon,C major,0.5893385860941447,4/4,['Church Bells'],48.97952000000016
+740,Battle! May-Brendan,B- major,0.8825099451928105,4/4,['Trumpet'],64.89786400000013
+741,Battle! Team A-M Grunts,b- minor,0.7082246493572588,4/4,['Harp'],100.8000000000008
+742,Battle! Team A-M Leaders,c minor,0.8974902306646932,4/4,['Electric Bass'],79.00971399999987
+743,Battle! Trainer,F major,0.6861030986118931,4/4,['StringInstrument'],89.69687999999978
+744,Battle! Wild Pokemon,C major,0.7392563235905695,4/4,['StringInstrument'],52.652984000000124
+745,Bicycle Ride,D major,0.9425232147260258,4/4,['Timpani'],50.43471199999973
+746,Cablecar Ride,b minor,0.523770502060789,4/4,['Trumpet'],14.000000000000021
+747,Contest Lobby,C major,0.79369656201924,4/4,['Trumpet'],33.75
+748,Contest V1,F major,0.7646984986604739,4/4,['Horn'],41.25
+749,Contest V2,F major,0.8041985752664239,4/4,['Trumpet'],41.25
+750,Contest V3,F major,0.8095000115420907,4/4,['Piano'],41.25
+751,Contest V4,B- major,0.7434599007599085,4/4,['Trumpet'],41.25
+752,Credits,G major,0.9220697833689587,4/4,['Harp'],171.15800999999817
+753,Desert,A major,0.7620080204639208,4/4,['Trumpet'],42.000000000000014
+754,Dewford Town,D major,0.9011003111088557,4/4,['Harp'],66.38288799999917
+755,Diving,C major,0.6671524002436883,4/4,['Harp'],86.51157600000073
+756,Encounter! Ace Trainer,F major,0.8201375775712361,4/4,['Trumpet'],31.071397500000273
+757,Encounter! Bikini Lady,E major,0.9597891137170472,4/4,['Harp'],12.676050000000025
+758,Encounter! Brendan,A major,0.869364800661922,4/4,['Trumpet'],33.75
+759,Encounter! Champion,C major,0.9088133246202494,4/4,['Flute'],30.422520000000198
+760,Encounter! Electric,D major,0.41132179182769535,4/4,['Trumpet'],14.142843000000049
+761,Encounter! Elite Four,a minor,0.8455329039365124,4/4,['Piano'],21.940289000000142
+762,Encounter! Hiker,D major,0.8029382117979055,4/4,['Horn'],16.875
+763,Encounter! Interviewers,b minor,0.6830164393826823,4/4,['Trumpet'],10.246473750000007
+764,Encounter! Lass,A- major,0.8486829725574451,4/4,['Flute'],13.333320000000029
+765,Encounter! Legendary Pokemon,F major,0.7557100766588024,4/4,['StringInstrument'],11.178560499999973
+766,Encounter! May,C# major,0.9096684474590355,4/4,['Trumpet'],33.75
+767,Encounter! Psychic,G major,0.5214633316917408,4/4,['Tuba'],21.147528999999913
+768,Encounter! Rayquaza,d minor,0.5762725971341129,4/4,['Organ'],26.0
+769,Encounter! Sailor,A- major,0.9143089613773806,4/4,['StringInstrument'],18.28125
+770,Encounter! Team Aqua Grunt,E- major,0.779410170632082,4/4,['Trumpet'],31.071397500000252
+771,Encounter! Team Magma Grunt,d minor,0.7577388642871793,4/4,['Horn'],21.283762500000044
+772,Encounter! Tuber,C# major,0.867024418346109,4/4,['Xylophone'],15.41664200000004
+773,Encounter! Twins,G major,0.7724336177329123,4/4,['Guitar'],10.746263999999998
+774,Encounter! Youngster,b- minor,0.6249272124100262,4/4,['Trumpet'],15.652151999999957
+775,Evergrande City,b- minor,0.771028350060288,4/4,['Guitar'],67.96875
+776,Fallabor Town,B- major,0.9681891490104515,4/4,['Guitar'],53.513459999999995
+777,Fortree City,F major,0.7405440484144004,4/4,['Flute'],33.75
+778,Hall of Fame,D major,0.8054497129071884,4/4,['Timpani'],35.65571749999967
+779,Help! Prof. Birch,F major,0.28373199827886725,4/4,['Horn'],8.066713874999968
+780,Intro-Double Battle!,e- minor,0.48122270116343363,4/4,['Harp'],14.734386333333285
+781,Lilycove City,B major,0.931659487997271,4/4,['StringInstrument'],55.91141412500032
+782,Littleroot Town,F major,0.8784258179936166,4/4,['StringInstrument'],54.166612500000085
+783,Marine Science Museum,D major,0.9366903030632235,4/4,['Piano'],80.11897666666601
+784,Mauville Game Corner,E- major,0.7332367429890401,4/4,['Fretless Bass'],69.97245749999841
+785,Meteor Falls,E- major,0.6676636954938773,4/4,['StringInstrument'],43.800000000000246
+786,Mt. Chimney,A- major,0.6513099758001605,4/4,['Timpani'],93.8707800000028
+787,Mt. Pyre,E- major,0.7137459588731643,4/4,['Guitar'],53.33327999999999
+788,Oldale Town,B- major,0.8401535786611521,4/4,['Flute'],38.39999999999988
+789,Petalburg City,A- major,0.826402358708966,4/4,['Trumpet'],32.380920000000124
+790,Petalburg Woods,B- major,0.3820925255226161,4/4,['Flute'],42.23072700000001
+791,PokeMart,B major,0.9319348079973195,4/4,['Fretless Bass'],44.65113600000027
+792,Pokemon Center,E major,0.7292466701957441,4/4,['Flute'],39.23076399999999
+793,Pokemon Communication Center,C major,0.9452734789312633,4/4,['Acoustic Bass'],34.0
+794,Pokemon Contest,B- major,0.8405150984657658,4/4,['Trumpet'],41.25
+795,Pokemon Evolving,a minor,0.717966378014091,4/4,['Horn'],32.0
+796,Pokemon Gym,A major,0.7526776084504905,4/4,['Trumpet'],33.75
+797,Prof. Birch's Lab,D major,0.927503608354831,4/4,['StringInstrument'],28.799999999999887
+798,Room of Glory,g minor,0.650735917006954,4/4,['Harp'],34.21047499999985
+799,Route 101,D major,0.8160986945776713,4/4,['Flute'],33.9473175
+800,Route 104,A- major,0.786551178925471,4/4,['Horn'],41.42110599999999
+801,Route 110,F# major,0.8034937426271356,4/4,['Timpani'],36.59087249999982
+802,Route 113,b minor,0.8067558093153158,4/4,['Guitar'],67.734375
+803,Route 119,A major,0.8547937279201905,4/4,['Tuba'],73.2352160000007
+804,Route 120,A major,0.8543291304110433,4/4,['Horn'],57.31340800000034
+805,Rustboro City,F major,0.7657988230740774,4/4,['Harpsichord'],61.640625
+806,Safari Zone,F major,0.7074147495425978,4/4,['Fretless Bass'],20.492947500000067
+807,Sealed Chamber,F# major,0.46025744133360763,4/4,['Harp'],35.999964000000034
+808,Slateport City,e minor,0.8096598383357968,4/4,['Church Bells'],82.25790000000168
+809,Sootopolis City,b minor,0.9105906752664412,4/4,['Flute'],54.48523600000072
+810,Surfing,C# major,0.9085770335762299,4/4,['StringInstrument'],71.34143249999968
+811,Team A-M Hideout,c minor,0.6499361454721704,4/4,['Trumpet'],40.67792000000008
+812,The Drought,a minor,0.5063812426370863,4/4,[None],49.2307199999998
+813,The End,c minor,0.0,4/4,['Guitar'],102.05549312500005
+814,The Flood,g# minor,0.5058462952595494,4/4,['Flute'],36.11107499999994
+815,The S.S. Tidal,g# minor,0.8362041913746044,4/4,['Harp'],30.961507499999794
+816,The World of Pokemon!,g# minor,0.8059267199643475,4/4,['Tuba'],50.322480000000304
+817,Trainer's School,D major,0.768673089786704,4/4,[None],37.241352000000056
+818,Trick House,F# major,0.7649163452778882,4/4,['Xylophone'],44.117600000000024
+819,Verdanturf Town,D major,0.9072144130654819,4/4,['Piano'],46.24995374999994
+820,Victory Road,f# minor,0.6973063799240262,4/4,['Trumpet'],53.7313200000017
+821,Victory! Contest,F major,0.7613830440658942,4/4,['Trumpet'],13.175662499999918
+822,Victory! Gym Leader,E- major,0.7854767588186534,4/4,['Trumpet'],48.013520000000106
+823,Victory! Team A-M Grunt,C major,0.7914382020763613,4/4,['Trumpet'],10.42252999999997
+824,Victory! Trainer,G major,0.730771811164913,4/4,['Fretless Bass'],16.17645333333329
+825,Victory! Wild Pokemon [No Intro],a minor,0.6649169134332242,4/4,['Flute'],13.92855750000004
+826,Victory! Wild Pokemon,a minor,0.6147188471846058,4/4,['Flute'],15.589270125000054
