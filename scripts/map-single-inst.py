@@ -4,8 +4,7 @@ import os
 import mido
 import glob
 
-os.chdir("C:\\Users\\Maya\\Documents\\School\\U4\\F2020\\MAIS202\\Project\\pkmn-music-generator\\midi-input\\cleaned"
-         "-data\\no-drum")
+os.chdir("C:\\Users\\Maya\\Documents\\School\\U4\\F2020\\MAIS202\\Project\\pkmn-music-generator\\midi-input\\cleaned-data-run2\\first-3-tracks")
 rootdir = "."
 
 
@@ -25,5 +24,5 @@ def conv_to_piano(song_file):
 for subdirs, dirs, files in os.walk(rootdir):
     for file in files:
         if file.endswith(".mid"):
-            # print("%s" % file)
+            print("Mapping %s" % file)
             conv_to_piano(file)
